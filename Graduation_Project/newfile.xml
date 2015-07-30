@@ -1,0 +1,3573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Records>
+  <Record0>
+    <listCount>537</listCount>
+    <Item>
+      <Record0>
+        <point>POINT(13522091.64 3661169.51)</point>
+        <osm_id>2629533653</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>1</ref>
+        <way>010100002031BF0D0048E17A7495CA694114AE47C1B8EE4B41</way>
+      </Record0>
+      <Record1>
+        <point>POINT(13522105.37 3661136.07)</point>
+        <osm_id>2629533658</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>2</ref>
+        <way>010100002031BF0D003D0AD72B97CA69418FC2F508A8EE4B41</way>
+      </Record1>
+      <Record2>
+        <point>POINT(13521998.48 3661146.22)</point>
+        <osm_id>2629533667</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>6</ref>
+        <way>010100002031BF0D00F6285CCF89CA6941C3F5281CADEE4B41</way>
+      </Record2>
+      <Record3>
+        <point>POINT(13522928.71 3661510.86)</point>
+        <osm_id>2629537093</osm_id>
+        <name>1</name>
+        <railway>subway_entrance</railway>
+        <ref>1</ref>
+        <way>010100002031BF0D00EC51B816FECA6941E17A146E63EF4B41</way>
+      </Record3>
+      <Record4>
+        <point>POINT(13522856.34 3661507.09)</point>
+        <osm_id>2629537094</osm_id>
+        <name>5</name>
+        <railway>subway_entrance</railway>
+        <ref>5</ref>
+        <way>010100002031BF0D00AE47E10AF5CA6941B81E858B61EF4B41</way>
+      </Record4>
+      <Record5>
+        <point>POINT(13522914.31 3661418.61)</point>
+        <osm_id>2629537095</osm_id>
+        <name>4</name>
+        <railway>subway_entrance</railway>
+        <ref>4</ref>
+        <way>010100002031BF0D001F85EB49FCCA6941E17A144E35EF4B41</way>
+      </Record5>
+      <Record6>
+        <point>POINT(13522921.85 3661404.2)</point>
+        <osm_id>2629537096</osm_id>
+        <name>3</name>
+        <railway>subway_entrance</railway>
+        <ref>4</ref>
+        <way>010100002031BF0D003333333BFDCA69419A9999192EEF4B41</way>
+      </Record6>
+      <Record7>
+        <point>POINT(13522967.46 3661443.64)</point>
+        <osm_id>2629537097</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>8</ref>
+        <way>010100002031BF0D00EC51B8EE02CB69411F85EBD141EF4B41</way>
+      </Record7>
+      <Record8>
+        <point>POINT(13523096.08 3661463.2)</point>
+        <osm_id>2629537098</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>7</ref>
+        <way>010100002031BF0D00295C8F0213CB69419A9999994BEF4B41</way>
+      </Record8>
+      <Record9>
+        <point>POINT(13523086.82 3661554.42)</point>
+        <osm_id>2629537099</osm_id>
+        <name>6</name>
+        <railway>subway_entrance</railway>
+        <ref>6</ref>
+        <way>010100002031BF0D00A4703DDA11CB69415C8FC23579EF4B41</way>
+      </Record9>
+      <Record10>
+        <point>POINT(13524134.75 3662023.35)</point>
+        <osm_id>2902243809</osm_id>
+        <amenity>bank</amenity>
+        <tags>"atm"=&gt;"yes"</tags>
+        <way>010100002031BF0D00000000D894CB6941CDCCCCAC63F04B41</way>
+      </Record10>
+      <Record11>
+        <point>POINT(13523425.24 3663226.59)</point>
+        <osm_id>2995260618</osm_id>
+        <name>Westin Hotel</name>
+        <tourism>hotel</tourism>
+        <way>010100002031BF0D007B14AE273CCB6941B81E854BBDF24B41</way>
+      </Record11>
+      <Record12>
+        <point>POINT(13522376.48 3661493.37)</point>
+        <osm_id>3027181885</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00F6285C0FB9CA6941F6285CAF5AEF4B41</way>
+      </Record12>
+      <Record13>
+        <point>POINT(13522451.63 3661542.76)</point>
+        <osm_id>3027181886</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00C3F52874C2CA694114AE476173EF4B41</way>
+      </Record13>
+      <Record14>
+        <point>POINT(13523274.67 3663382.14)</point>
+        <osm_id>3041603576</osm_id>
+        <highway>bus_stop</highway>
+        <name>河南中路延安东路</name>
+        <tags>"local_ref"=&gt;"河南中路延安东路"</tags>
+        <way>010100002031BF0D00D7A3705529CB69411F85EB110BF34B41</way>
+      </Record14>
+      <Record15>
+        <point>POINT(13523277.86 3663201.56)</point>
+        <osm_id>3041604496</osm_id>
+        <highway>bus_stop</highway>
+        <name>河南中路延安东路</name>
+        <tags>"local_ref"=&gt;"河南中路延安东路"</tags>
+        <way>010100002031BF0D00B81E85BB29CB69417B14AEC7B0F24B41</way>
+      </Record15>
+      <Record16>
+        <point>POINT(13524675.6 3661208.11)</point>
+        <osm_id>3047841033</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>1</ref>
+        <way>010100002031BF0D0033333373D8CB6941E17A140ECCEE4B41</way>
+      </Record16>
+      <Record17>
+        <point>POINT(13524658.88 3661147.2)</point>
+        <osm_id>3047841133</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>2</ref>
+        <way>010100002031BF0D00C3F5285CD6CB69419A999999ADEE4B41</way>
+      </Record17>
+      <Record18>
+        <point>POINT(13524637.38 3661265.44)</point>
+        <osm_id>3047841233</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>4</ref>
+        <way>010100002031BF0D00C3F528ACD3CB694185EB51B8E8EE4B41</way>
+      </Record18>
+      <Record19>
+        <point>POINT(13522194 3663192.03)</point>
+        <osm_id>3047854933</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>15</ref>
+        <way>010100002031BF0D0000000040A2CA69413D0AD703ACF24B41</way>
+      </Record19>
+      <Record20>
+        <point>POINT(13521931.6 3661995.7)</point>
+        <osm_id>3053401337</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>2</ref>
+        <way>010100002031BF0D003333337381CA69419A9999D955F04B41</way>
+      </Record20>
+      <Record21>
+        <point>POINT(13521826.49 3661993.9)</point>
+        <osm_id>3053426934</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>3</ref>
+        <way>010100002031BF0D007B14AE4F74CA6941333333F354F04B41</way>
+      </Record21>
+      <Record22>
+        <point>POINT(13521756.63 3661904.93)</point>
+        <osm_id>3053456433</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>1</ref>
+        <way>010100002031BF0D00C3F528946BCA6941713D0A7728F04B41</way>
+      </Record22>
+      <Record23>
+        <point>POINT(13526601.43 3663275.88)</point>
+        <osm_id>3080460634</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>3</ref>
+        <way>010100002031BF0D005C8FC22DC9CC69410AD7A3F0D5F24B41</way>
+      </Record23>
+      <Record24>
+        <point>POINT(13526448.56 3663351.11)</point>
+        <osm_id>3080482634</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>4</ref>
+        <way>010100002031BF0D001F85EB11B6CC6941E17A148EFBF24B41</way>
+      </Record24>
+      <Record25>
+        <point>POINT(13526649.2 3663384.56)</point>
+        <osm_id>3080494133</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>2</ref>
+        <way>010100002031BF0D0066666626CFCC69417B14AE470CF34B41</way>
+      </Record25>
+      <Record26>
+        <point>POINT(13526470.05 3663441.88)</point>
+        <osm_id>3080494433</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>1</ref>
+        <way>010100002031BF0D009A9999C1B8CC69410AD7A3F028F34B41</way>
+      </Record26>
+      <Record27>
+        <point>POINT(13522888.52 3660562.72)</point>
+        <osm_id>3100342678</osm_id>
+        <amenity>hospital</amenity>
+        <name>复旦大学附属妇产科医院</name>
+        <way>010100002031BF0D000AD7A310F9CA6941C3F5285C89ED4B41</way>
+      </Record27>
+      <Record28>
+        <point>POINT(13522636.4 3662084.26)</point>
+        <osm_id>3105898656</osm_id>
+        <housenumber>98</housenumber>
+        <name>Fraser Residence Shanghai</name>
+        <tourism>hotel</tourism>
+        <tags>"website"=&gt;"http://shanghai.fraserhospitality.com", "addr:street"=&gt;"Shou Ning Road", "addr:postcode"=&gt;"200021"</tags>
+        <way>010100002031BF0D00CDCCCC8CD9CA694114AE472182F04B41</way>
+      </Record28>
+      <Record29>
+        <point>POINT(13522609.17 3662184.56)</point>
+        <osm_id>3109228377</osm_id>
+        <amenity>cafe</amenity>
+        <name>Starbucks</name>
+        <way>010100002031BF0D00D7A37025D6CA69417B14AE47B4F04B41</way>
+      </Record29>
+      <Record30>
+        <point>POINT(13522368.17 3662243.23)</point>
+        <osm_id>3109231186</osm_id>
+        <amenity>fast_food</amenity>
+        <name>McDonald's</name>
+        <way>010100002031BF0D00D7A37005B8CA6941D7A3709DD1F04B41</way>
+      </Record30>
+      <Record31>
+        <point>POINT(13522387.5 3662194.63)</point>
+        <osm_id>3109231187</osm_id>
+        <layer>-1</layer>
+        <shop>supermarket</shop>
+        <way>010100002031BF0D0000000070BACA69410AD7A350B9F04B41</way>
+      </Record31>
+      <Record32>
+        <point>POINT(13522232.33 3662826.64)</point>
+        <osm_id>3110932576</osm_id>
+        <amenity>police</amenity>
+        <way>010100002031BF0D00295C8F0AA7CA69411F85EB51F5F14B41</way>
+      </Record32>
+      <Record33>
+        <point>POINT(13522198.47 3661467.96)</point>
+        <osm_id>3113821584</osm_id>
+        <amenity>toilets</amenity>
+        <way>010100002031BF0D00713D0ACFA2CA6941AE47E1FA4DEF4B41</way>
+      </Record33>
+      <Record34>
+        <point>POINT(13523271.5 3660633.2)</point>
+        <osm_id>3114664536</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>1</ref>
+        <way>010100002031BF0D00000000F028CB69419A999999ACED4B41</way>
+      </Record34>
+      <Record35>
+        <point>POINT(13522499.95 3662456.94)</point>
+        <osm_id>3114664748</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>3</ref>
+        <way>010100002031BF0D006666667EC8CA694185EB51783CF14B41</way>
+      </Record35>
+      <Record36>
+        <point>POINT(13522975.3 3661420.27)</point>
+        <osm_id>3114681132</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>2</ref>
+        <way>010100002031BF0D009A9999E903CB6941295C8F2236EF4B41</way>
+      </Record36>
+      <Record37>
+        <point>POINT(13522446.21 3662593.1)</point>
+        <osm_id>3114683434</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>4</ref>
+        <way>010100002031BF0D00EC51B8C6C1CA6941CDCCCC8C80F14B41</way>
+      </Record37>
+      <Record38>
+        <point>POINT(13522553.7 3662605.03)</point>
+        <osm_id>3114688337</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>1</ref>
+        <way>010100002031BF0D0066666636CFCA69413D0AD78386F14B41</way>
+      </Record38>
+      <Record39>
+        <point>POINT(13526568.58 3662963.1)</point>
+        <osm_id>3114711936</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>4</ref>
+        <way>010100002031BF0D00295C8F12C5CC6941CDCCCC8C39F24B41</way>
+      </Record39>
+      <Record40>
+        <point>POINT(13523271.5 3660633.2)</point>
+        <osm_id>3114730331</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>1</ref>
+        <way>010100002031BF0D00000000F028CB69419A999999ACED4B41</way>
+      </Record40>
+      <Record41>
+        <point>POINT(13526716.67 3663015.65)</point>
+        <osm_id>3114739629</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>1</ref>
+        <way>010100002031BF0D00D7A37095D7CC6941333333D353F24B41</way>
+      </Record41>
+      <Record42>
+        <point>POINT(13522577.46 3662504.66)</point>
+        <osm_id>3117888992</osm_id>
+        <amenity>cafe</amenity>
+        <name>Starbucks</name>
+        <way>010100002031BF0D00EC51B82ED2CA694148E17A5454F14B41</way>
+      </Record42>
+      <Record43>
+        <point>POINT(13521995.45 3663340.59)</point>
+        <osm_id>3118084312</osm_id>
+        <amenity>cafe</amenity>
+        <name>Starbucks</name>
+        <way>010100002031BF0D006666666E89CA6941B81E854BF6F24B41</way>
+      </Record43>
+      <Record44>
+        <point>POINT(13521726.18 3662583.76)</point>
+        <osm_id>71127847</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D005C8FC2C567CA694114AE47E17BF14B41</way>
+      </Record44>
+      <Record45>
+        <point>POINT(13523838.97 3663491.79)</point>
+        <osm_id>75349972</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00713D0ADF6FCB694152B81EE541F34B41</way>
+      </Record45>
+      <Record46>
+        <point>POINT(13521575.27 3661014.66)</point>
+        <osm_id>76482084</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D000AD7A3E854CA694148E17A546BEE4B41</way>
+      </Record46>
+      <Record47>
+        <point>POINT(13521203.83 3660981.22)</point>
+        <osm_id>76482203</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00295C8F7A26CA6941C3F5289C5AEE4B41</way>
+      </Record47>
+      <Record48>
+        <point>POINT(13521966.84 3662022.26)</point>
+        <osm_id>85010431</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00AE47E1DA85CA694114AE472163F04B41</way>
+      </Record48>
+      <Record49>
+        <point>POINT(13521926.54 3661763.58)</point>
+        <osm_id>85011021</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D0014AE47D180CA6941A4703DCAE1EF4B41</way>
+      </Record49>
+      <Record50>
+        <point>POINT(13522056.17 3661818.78)</point>
+        <osm_id>85011298</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00D7A3700591CA69413D0AD763FDEF4B41</way>
+      </Record50>
+      <Record51>
+        <point>POINT(13522080.2 3661694.45)</point>
+        <osm_id>85509263</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D006666660694CA69419A999939BFEF4B41</way>
+      </Record51>
+      <Record52>
+        <point>POINT(13521909.59 3662160.88)</point>
+        <osm_id>87752549</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00AE47E1B27ECA69410AD7A370A8F04B41</way>
+      </Record52>
+      <Record53>
+        <point>POINT(13522243.91 3661651.93)</point>
+        <osm_id>93246158</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D0052B81E7DA8CA6941713D0AF7A9EF4B41</way>
+      </Record53>
+      <Record54>
+        <point>POINT(13522297.05 3661622.7)</point>
+        <osm_id>93246167</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D009A999921AFCA69419A9999599BEF4B41</way>
+      </Record54>
+      <Record55>
+        <point>POINT(13522439.38 3661629.83)</point>
+        <osm_id>93246191</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00C3F528ECC0CA6941A4703DEA9EEF4B41</way>
+      </Record55>
+      <Record56>
+        <point>POINT(13521890.3 3661856.48)</point>
+        <osm_id>93246664</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D009A9999497CCA6941D7A3703D10F04B41</way>
+      </Record56>
+      <Record57>
+        <point>POINT(13522020.39 3661906.5)</point>
+        <osm_id>93246685</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D0048E17A8C8CCA69410000004029F04B41</way>
+      </Record57>
+      <Record58>
+        <point>POINT(13521847.35 3661970.43)</point>
+        <osm_id>93246696</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00333333EB76CA6941713D0A3749F04B41</way>
+      </Record58>
+      <Record59>
+        <point>POINT(13522610.08 3661612)</point>
+        <osm_id>93310009</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00295C8F42D6CA69410000000096EF4B41</way>
+      </Record59>
+      <Record60>
+        <point>POINT(13523689.81 3661841.4)</point>
+        <osm_id>93332044</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D001F85EB395DCB6941333333B308F04B41</way>
+      </Record60>
+      <Record61>
+        <point>POINT(13523704.82 3661844.94)</point>
+        <osm_id>93332051</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00A4703D1A5FCB694185EB51780AF04B41</way>
+      </Record61>
+      <Record62>
+        <point>POINT(13523699.99 3661855.4)</point>
+        <osm_id>93332110</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D007B14AE7F5ECB6941333333B30FF04B41</way>
+      </Record62>
+      <Record63>
+        <point>POINT(13523685.66 3661851.53)</point>
+        <osm_id>93332133</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D0052B81EB55CCB69413D0AD7C30DF04B41</way>
+      </Record63>
+      <Record64>
+        <point>POINT(13521647.31 3661377.92)</point>
+        <osm_id>95370953</osm_id>
+        <highway>motorway_junction</highway>
+        <name>淮海中路</name>
+        <tags>"name:en"=&gt;"Huaihai Road (Middle)"</tags>
+        <way>010100002031BF0D001F85EBE95DCA69415C8FC2F520EF4B41</way>
+      </Record64>
+      <Record65>
+        <point>POINT(13523464.64 3663345.4)</point>
+        <osm_id>95386499</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D0048E17A1441CB6941333333B3F8F24B41</way>
+      </Record65>
+      <Record66>
+        <point>POINT(13523638.83 3663418.57)</point>
+        <osm_id>95386562</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00295C8FDA56CB69418FC2F5481DF34B41</way>
+      </Record66>
+      <Record67>
+        <point>POINT(13524059.94 3663187.71)</point>
+        <osm_id>103764778</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00E17A147E8BCB6941AE47E1DAA9F24B41</way>
+      </Record67>
+      <Record68>
+        <point>POINT(13524044.13 3663175.06)</point>
+        <osm_id>103764845</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00C3F5288489CB69417B14AE87A3F24B41</way>
+      </Record68>
+      <Record69>
+        <point>POINT(13523584.27 3663604.29)</point>
+        <osm_id>103788196</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D000AD7A30850CB694152B81E257AF34B41</way>
+      </Record69>
+      <Record70>
+        <point>POINT(13522629.93 3662356.5)</point>
+        <osm_id>152878617</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D005C8FC2BDD8CA6941000000400AF14B41</way>
+      </Record70>
+      <Record71>
+        <point>POINT(13523076.6 3663122.88)</point>
+        <osm_id>244080687</osm_id>
+        <name>黄浦区</name>
+        <place>suburb</place>
+        <tags>"gns:DSG"=&gt;"ADM3", "gns:UFI"=&gt;"-1910407", "gns:UNI"=&gt;"6719592", "name:en"=&gt;"Huangpu District", "name:vi"=&gt;"Hoàng Phố", "name:zh"=&gt;"黄浦区", "gns:ADM1"=&gt;"23"</tags>
+        <way>010100002031BF0D003333339310CB69410AD7A37089F24B41</way>
+      </Record71>
+      <Record72>
+        <point>POINT(13521886.69 3662951.16)</point>
+        <osm_id>244081648</osm_id>
+        <name>上海市</name>
+        <place>state</place>
+        <population>15550000</population>
+        <ref>沪</ref>
+        <tags>"ref:en"=&gt;"SH", "ref:vi"=&gt;"Hỗ", "gns:DSG"=&gt;"ADM1", "gns:UFI"=&gt;"-1924470", "gns:UNI"=&gt;"9309919", "name:af"=&gt;"Sjanghai", "name:cs"=&gt;"Šanghaj", "name:da"=&gt;"Shanghai", "name:de"=&gt;"Shànghǎi", "name:en"=&gt;"Shanghai", "name:es"=&gt;"Shanghái", "name:fr"=&gt;"Shànghǎi", "name:he"=&gt;"שאנגחאי", "name:lt"=&gt;"Šanchajus", "name:pl"=&gt;"Szanghaj", "name:ru"=&gt;"Шанхай", "name:sk"=&gt;"Šanghaj", "name:uk"=&gt;"Шанхай", "name:vi"=&gt;"Thượng Hải", "gns:ADM1"=&gt;"23", "int_name"=&gt;"Shanghai", "wikipedia"=&gt;"en:Shanghai", "is_in:country"=&gt;"China", "is_in:continent"=&gt;"Asia", "is_in:country_code"=&gt;"CN"</tags>
+        <way>010100002031BF0D00E17A14D67BCA694148E17A9433F24B41</way>
+      </Record72>
+      <Record73>
+        <point>POINT(13522071.41 3661615.08)</point>
+        <osm_id>257067132</osm_id>
+        <tourism>museum</tourism>
+        <tags>"name:en"=&gt;"Seat of the First Congress of the Chinese Communist Party"</tags>
+        <way>010100002031BF0D0052B81EED92CA6941A4703D8A97EF4B41</way>
+      </Record73>
+      <Record74>
+        <point>POINT(13522396.47 3663213.15)</point>
+        <osm_id>267194982</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00713D0A8FBBCA694133333393B6F24B41</way>
+      </Record74>
+      <Record75>
+        <point>POINT(13522147.78 3663281.94)</point>
+        <osm_id>267195089</osm_id>
+        <amenity>cinema</amenity>
+        <name>和平电影院</name>
+        <tags>"name:en"=&gt;"Peace Cinema"</tags>
+        <way>010100002031BF0D008FC2F5789CCA694185EB51F8D8F24B41</way>
+      </Record75>
+      <Record76>
+        <point>POINT(13521658.59 3662659.65)</point>
+        <osm_id>267195150</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00AE47E1525FCA6941333333D3A1F14B41</way>
+      </Record76>
+      <Record77>
+        <point>POINT(13522325.16 3663181.41)</point>
+        <osm_id>267198210</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D0052B81EA5B2CA694148E17AB4A6F24B41</way>
+      </Record77>
+      <Record78>
+        <point>POINT(13522698.9 3663044.41)</point>
+        <osm_id>267198545</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00CDCCCC5CE1CA694148E17A3462F24B41</way>
+      </Record78>
+      <Record79>
+        <point>POINT(13522150.42 3663215.92)</point>
+        <osm_id>301638556</osm_id>
+        <name>人民广场</name>
+        <railway>station</railway>
+        <tags>"name:en"=&gt;"People's Square"</tags>
+        <way>010100002031BF0D00D7A370CD9CCA69415C8FC2F5B7F24B41</way>
+      </Record79>
+      <Record80>
+        <point>POINT(13522530.24 3662545.46)</point>
+        <osm_id>301638561</osm_id>
+        <name>大世界</name>
+        <railway>station</railway>
+        <tags>"name:en"=&gt;"Dashijie"</tags>
+        <way>010100002031BF0D007B14AE47CCCA6941AE47E1BA68F14B41</way>
+      </Record80>
+      <Record81>
+        <point>POINT(13522933.45 3661448.6)</point>
+        <osm_id>301639388</osm_id>
+        <name>老西门</name>
+        <railway>station</railway>
+        <tags>"name:en"=&gt;"Laoximen"</tags>
+        <way>010100002031BF0D00666666AEFECA6941CDCCCC4C44EF4B41</way>
+      </Record81>
+      <Record82>
+        <point>POINT(13523255.89 3660561.65)</point>
+        <osm_id>301639398</osm_id>
+        <name>陆家浜路</name>
+        <railway>station</railway>
+        <tags>"name:en"=&gt;"Lujiabang Road"</tags>
+        <way>010100002031BF0D0048E17AFC26CB6941333333D388ED4B41</way>
+      </Record82>
+      <Record83>
+        <point>POINT(13523003.93 3661825.14)</point>
+        <osm_id>385113763</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D005C8FC27D07CB69411F85EB9100F04B41</way>
+      </Record83>
+      <Record84>
+        <point>POINT(13524895.89 3662346.26)</point>
+        <osm_id>468712503</osm_id>
+        <name>十六铺</name>
+        <place>locality</place>
+        <way>010100002031BF0D0048E17AFCF3CB694114AE472105F14B41</way>
+      </Record84>
+      <Record85>
+        <point>POINT(13521824.27 3663358.63)</point>
+        <osm_id>468916452</osm_id>
+        <name>人民广场</name>
+        <railway>station</railway>
+        <tags>"name:en"=&gt;"People's Square"</tags>
+        <way>010100002031BF0D000AD7A30874CA69410AD7A350FFF24B41</way>
+      </Record85>
+      <Record86>
+        <point>POINT(13522117.64 3663199.38)</point>
+        <osm_id>469787957</osm_id>
+        <name>人民广场</name>
+        <railway>station</railway>
+        <tags>"name:en"=&gt;"People's Square"</tags>
+        <way>010100002031BF0D0048E17AB498CA69410AD7A3B0AFF24B41</way>
+      </Record86>
+      <Record87>
+        <point>POINT(13521904.93 3661997.55)</point>
+        <osm_id>471016169</osm_id>
+        <name>黄陂南路</name>
+        <railway>station</railway>
+        <tags>"name:en"=&gt;"South Huangpi Road"</tags>
+        <way>010100002031BF0D005C8FC21D7ECA6941666666C656F04B41</way>
+      </Record87>
+      <Record88>
+        <point>POINT(13526573.72 3663341.41)</point>
+        <osm_id>471016654</osm_id>
+        <name>东昌路</name>
+        <railway>station</railway>
+        <tags>"name:en"=&gt;"Dongchang Road"</tags>
+        <way>010100002031BF0D00713D0AB7C5CC694148E17AB4F6F24B41</way>
+      </Record88>
+      <Record89>
+        <point>POINT(13523220.1 3660544.79)</point>
+        <osm_id>471988294</osm_id>
+        <name>陆家浜路</name>
+        <railway>station</railway>
+        <tags>"name:en"=&gt;"Lujiabang Road"</tags>
+        <way>010100002031BF0D003333338322CB694152B81E6580ED4B41</way>
+      </Record89>
+      <Record90>
+        <point>POINT(13522911.42 3661449.79)</point>
+        <osm_id>472368139</osm_id>
+        <name>老西门</name>
+        <railway>station</railway>
+        <tags>"name:en"=&gt;"Laoximen"</tags>
+        <way>010100002031BF0D00D7A370EDFBCA694152B81EE544EF4B41</way>
+      </Record90>
+      <Record91>
+        <point>POINT(13524161.23 3663038.02)</point>
+        <osm_id>476078722</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00F6285C2798CB6941295C8F025FF24B41</way>
+      </Record91>
+      <Record92>
+        <point>POINT(13524178.8 3663051.39)</point>
+        <osm_id>476078723</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D009A9999599ACB69411F85EBB165F24B41</way>
+      </Record92>
+      <Record93>
+        <point>POINT(13523792.62 3663533.9)</point>
+        <osm_id>476149638</osm_id>
+        <historic>heritage</historic>
+        <name>中国通商银行大楼</name>
+        <tourism>attraction</tourism>
+        <tags>"name:en"=&gt;"China Merchants Bank Building"</tags>
+        <way>010100002031BF0D003D0AD7136ACB6941333333F356F34B41</way>
+      </Record93>
+      <Record94>
+        <point>POINT(13523769.32 3663580.19)</point>
+        <osm_id>476151005</osm_id>
+        <historic>heritage</historic>
+        <name>电报大楼</name>
+        <tourism>attraction</tourism>
+        <tags>"name:en"=&gt;"Great Northern Telegraph Corporation Building"</tags>
+        <way>010100002031BF0D00A4703D2A67CB694185EB51186EF34B41</way>
+      </Record94>
+      <Record95>
+        <point>POINT(13523753.49 3663616.97)</point>
+        <osm_id>476151155</osm_id>
+        <historic>heritage</historic>
+        <name>旗昌洋行大楼</name>
+        <tourism>attraction</tourism>
+        <tags/>
+        <way>010100002031BF0D007B14AE2F65CB6941C3F5287C80F34B41</way>
+      </Record95>
+      <Record96>
+        <point>POINT(13523811.11 3663502.62)</point>
+        <osm_id>476151248</osm_id>
+        <historic>heritage</historic>
+        <name>日清大楼</name>
+        <tourism>attraction</tourism>
+        <tags>"name:en"=&gt;"Nissin Building"</tags>
+        <way>010100002031BF0D00B81E85636CCB6941F6285C4F47F34B41</way>
+      </Record96>
+      <Record97>
+        <point>POINT(13523840.36 3663459.33)</point>
+        <osm_id>476151320</osm_id>
+        <historic>heritage</historic>
+        <name>有利大楼</name>
+        <tourism>attraction</tourism>
+        <tags>"name:en"=&gt;"Union Building"</tags>
+        <way>010100002031BF0D00B81E850B70CB6941A4703DAA31F34B41</way>
+      </Record97>
+      <Record98>
+        <point>POINT(13523858.31 3663418.36)</point>
+        <osm_id>476151413</osm_id>
+        <historic>heritage</historic>
+        <name>上海总会大楼</name>
+        <tourism>attraction</tourism>
+        <tags>"name:en"=&gt;"Shanghai Club"</tags>
+        <way>010100002031BF0D001F85EB4972CB6941E17A142E1DF34B41</way>
+      </Record98>
+      <Record99>
+        <point>POINT(13523872.64 3663375.36)</point>
+        <osm_id>476151449</osm_id>
+        <historic>heritage</historic>
+        <name>亚细亚大楼</name>
+        <tourism>attraction</tourism>
+        <tags>"name:en"=&gt;"Asia Building"</tags>
+        <way>010100002031BF0D0048E17A1474CB6941E17A14AE07F34B41</way>
+      </Record99>
+      <Record100>
+        <point>POINT(13523145.97 3661493.07)</point>
+        <osm_id>476560259</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00713D0A3F19CB69418FC2F5885AEF4B41</way>
+      </Record100>
+      <Record101>
+        <point>POINT(13522213.34 3663080.4)</point>
+        <osm_id>476675164</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00AE47E1AAA4CA69413333333374F24B41</way>
+      </Record101>
+      <Record102>
+        <point>POINT(13522203.81 3663094.38)</point>
+        <osm_id>476675195</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D001F85EB79A3CA69410AD7A3307BF24B41</way>
+      </Record102>
+      <Record103>
+        <point>POINT(13521651.41 3662671.51)</point>
+        <osm_id>476675200</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D0052B81E6D5ECA694114AE47C1A7F14B41</way>
+      </Record103>
+      <Record104>
+        <point>POINT(13522073.6 3663231.12)</point>
+        <osm_id>476682315</osm_id>
+        <amenity>toilets</amenity>
+        <way>010100002031BF0D003333333393CA6941F6285C8FBFF24B41</way>
+      </Record104>
+      <Record105>
+        <point>POINT(13521860.53 3663218.7)</point>
+        <osm_id>476682321</osm_id>
+        <amenity>toilets</amenity>
+        <way>010100002031BF0D008FC2F59078CA69419A999959B9F24B41</way>
+      </Record105>
+      <Record106>
+        <point>POINT(13522239.1 3663599.9)</point>
+        <osm_id>476779364</osm_id>
+        <amenity>fast_food</amenity>
+        <name>麦当劳 McDonald's</name>
+        <tags>"cuisine"=&gt;"burger", "name:en"=&gt;"McDonald's"</tags>
+        <way>010100002031BF0D00333333E3A7CA6941333333F377F34B41</way>
+      </Record106>
+      <Record107>
+        <point>POINT(13522168.91 3663531.98)</point>
+        <osm_id>476779776</osm_id>
+        <name>世茂皇家艾美酒店</name>
+        <tourism>hotel</tourism>
+        <tags>"name:en"=&gt;"Le Royal Meridien Shanghai"</tags>
+        <way>010100002031BF0D0052B81E1D9FCA6941D7A370FD55F34B41</way>
+      </Record107>
+      <Record108>
+        <point>POINT(13522060.84 3663442.47)</point>
+        <osm_id>476786676</osm_id>
+        <amenity>fast_food</amenity>
+        <name>肯德基</name>
+        <tags>"name:en"=&gt;"KFC"</tags>
+        <way>010100002031BF0D00AE47E19A91CA6941C3F5283C29F34B41</way>
+      </Record108>
+      <Record109>
+        <point>POINT(13523356.17 3663024.86)</point>
+        <osm_id>476792263</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00D7A3708533CB6941E17A146E58F24B41</way>
+      </Record109>
+      <Record110>
+        <point>POINT(13523526.51 3663125.91)</point>
+        <osm_id>476792266</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D0085EB51D048CB694148E17AF48AF24B41</way>
+      </Record110>
+      <Record111>
+        <point>POINT(13523703.47 3663237.69)</point>
+        <osm_id>476794281</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00713D0AEF5ECB694185EB51D8C2F24B41</way>
+      </Record111>
+      <Record112>
+        <point>POINT(13523322.1 3663068.17)</point>
+        <osm_id>476794301</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00333333432FCB69415C8FC2156EF24B41</way>
+      </Record112>
+      <Record113>
+        <point>POINT(13521658.85 3661791.68)</point>
+        <osm_id>477601189</osm_id>
+        <highway>motorway_junction</highway>
+        <name>延安高架</name>
+        <tags>"name:en"=&gt;"Yan'an Elevated Road"</tags>
+        <way>010100002031BF0D003333335B5FCA6941713D0AD7EFEF4B41</way>
+      </Record113>
+      <Record114>
+        <point>POINT(13521934.71 3662447.02)</point>
+        <osm_id>477602810</osm_id>
+        <highway>motorway_junction</highway>
+        <name>南北高架</name>
+        <tags>"name:en"=&gt;"North-South Elevated Road"</tags>
+        <way>010100002031BF0D00EC51B8D681CA6941295C8F8237F14B41</way>
+      </Record114>
+      <Record115>
+        <point>POINT(13522749.01 3662970.93)</point>
+        <osm_id>477616429</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D0085EB51A0E7CA6941713D0A773DF24B41</way>
+      </Record115>
+      <Record116>
+        <point>POINT(13522775.55 3662929.55)</point>
+        <osm_id>477619297</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D009A9999F1EACA6941666666C628F24B41</way>
+      </Record116>
+      <Record117>
+        <point>POINT(13523574.52 3663431.36)</point>
+        <osm_id>477649286</osm_id>
+        <amenity>hospital</amenity>
+        <name>区中心医院</name>
+        <tags>"name:en"=&gt;"District Centre Hospital"</tags>
+        <way>010100002031BF0D000AD7A3D04ECB6941E17A14AE23F34B41</way>
+      </Record117>
+      <Record118>
+        <point>POINT(13523613.69 3663352.04)</point>
+        <osm_id>477658416</osm_id>
+        <amenity>bank</amenity>
+        <name>民生银行</name>
+        <way>010100002031BF0D00E17A14B653CB694152B81E05FCF24B41</way>
+      </Record118>
+      <Record119>
+        <point>POINT(13523405.43 3663117.97)</point>
+        <osm_id>477659058</osm_id>
+        <name>上海自然博物馆</name>
+        <tourism>museum</tourism>
+        <tags>"name:en"=&gt;"Shanghai Natural History Museum"</tags>
+        <way>010100002031BF0D005C8FC2AD39CB6941C3F528FC86F24B41</way>
+      </Record119>
+      <Record120>
+        <point>POINT(13523332.79 3663533.58)</point>
+        <osm_id>477659663</osm_id>
+        <amenity>police</amenity>
+        <name>市公安局</name>
+        <tags>"name:en"=&gt;"Shanghai Police Station"</tags>
+        <way>010100002031BF0D0014AE479930CB6941A4703DCA56F34B41</way>
+      </Record120>
+      <Record121>
+        <point>POINT(13522953.48 3663471.49)</point>
+        <osm_id>477660505</osm_id>
+        <amenity>hospital</amenity>
+        <tags>"name:en"=&gt;"Renji Hospital"</tags>
+        <way>010100002031BF0D00F6285C2F01CB6941EC51B8BE37F34B41</way>
+      </Record121>
+      <Record122>
+        <point>POINT(13522764.29 3663319.57)</point>
+        <osm_id>477661623</osm_id>
+        <shop>books</shop>
+        <tags>"name:en"=&gt;"Shanghai Book City"</tags>
+        <way>010100002031BF0D0014AE4789E9CA69418FC2F5C8EBF24B41</way>
+      </Record122>
+      <Record123>
+        <point>POINT(13521665.5 3663387.42)</point>
+        <osm_id>477665054</osm_id>
+        <name>国际饭店 Park Hotel</name>
+        <tourism>hotel</tourism>
+        <tags>"name:en"=&gt;"Park Hotel"</tags>
+        <way>010100002031BF0D000000003060CA69415C8FC2B50DF34B41</way>
+      </Record123>
+      <Record124>
+        <point>POINT(13521736.21 3663456.22)</point>
+        <osm_id>477665151</osm_id>
+        <name>金门大酒店 Shanghai Pacific</name>
+        <tourism>hotel</tourism>
+        <tags>"name:en"=&gt;"Shanghai Pacific"</tags>
+        <way>010100002031BF0D00EC51B80669CA6941C3F5281C30F34B41</way>
+      </Record124>
+      <Record125>
+        <point>POINT(13521888.13 3663405.56)</point>
+        <osm_id>477665815</osm_id>
+        <name>人民广场地铁站出口6</name>
+        <railway>subway_entrance</railway>
+        <ref>6</ref>
+        <tags>"name:en"=&gt;"People's Park exit 6"</tags>
+        <way>010100002031BF0D00C3F528047CCA69417B14AEC716F34B41</way>
+      </Record125>
+      <Record126>
+        <point>POINT(13521895.78 3663456.2)</point>
+        <osm_id>477665906</osm_id>
+        <name>人民广场地铁站出口7</name>
+        <railway>subway_entrance</railway>
+        <ref>7</ref>
+        <tags>"name:en"=&gt;"People's Park exit 7"</tags>
+        <way>010100002031BF0D008FC2F5F87CCA69419A99991930F34B41</way>
+      </Record126>
+      <Record127>
+        <point>POINT(13521939.26 3663408.7)</point>
+        <osm_id>477666011</osm_id>
+        <name>人民广场地铁站出口5</name>
+        <railway>subway_entrance</railway>
+        <ref>5</ref>
+        <tags>"name:en"=&gt;"People's Park exit 5"</tags>
+        <way>010100002031BF0D0085EB516882CA69419A99995918F34B41</way>
+      </Record127>
+      <Record128>
+        <point>POINT(13521650.33 3663241.08)</point>
+        <osm_id>477666101</osm_id>
+        <name>人民广场地铁站出口10</name>
+        <railway>subway_entrance</railway>
+        <ref>10</ref>
+        <tags>"name:en"=&gt;"People's Park exit 10"</tags>
+        <way>010100002031BF0D00295C8F4A5ECA6941A4703D8AC4F24B41</way>
+      </Record128>
+      <Record129>
+        <point>POINT(13521681.06 3663281.37)</point>
+        <osm_id>477666311</osm_id>
+        <name>人民广场地铁站出口9</name>
+        <railway>subway_entrance</railway>
+        <ref>9</ref>
+        <tags>"name:en"=&gt;"People's Park exit 9"</tags>
+        <way>010100002031BF0D001F85EB2162CA6941F6285CAFD8F24B41</way>
+      </Record129>
+      <Record130>
+        <point>POINT(13521844.4 3663337.22)</point>
+        <osm_id>477666373</osm_id>
+        <name>人民广场地铁站出口12</name>
+        <railway>subway_entrance</railway>
+        <ref>12</ref>
+        <tags>"name:en"=&gt;"People's Park exit 12"</tags>
+        <way>010100002031BF0D00CDCCCC8C76CA6941C3F5289CF4F24B41</way>
+      </Record130>
+      <Record131>
+        <point>POINT(13522185.61 3663029.17)</point>
+        <osm_id>477666637</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>1</ref>
+        <way>010100002031BF0D00B81E8533A1CA69415C8FC2955AF24B41</way>
+      </Record131>
+      <Record132>
+        <point>POINT(13522122.93 3663162.06)</point>
+        <osm_id>477666889</osm_id>
+        <name>人民广场地铁站出口3</name>
+        <railway>subway_entrance</railway>
+        <ref>3</ref>
+        <tags>"name:en"=&gt;"People's Park exit 3"</tags>
+        <way>010100002031BF0D005C8FC25D99CA69417B14AE079DF24B41</way>
+      </Record132>
+      <Record133>
+        <point>POINT(13522707.22 3661386.75)</point>
+        <osm_id>478373250</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00713D0A67E2CA69410000006025EF4B41</way>
+      </Record133>
+      <Record134>
+        <point>POINT(13523515.47 3663154.57)</point>
+        <osm_id>479279454</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00713D0A6F47CB69418FC2F54899F24B41</way>
+      </Record134>
+      <Record135>
+        <point>POINT(13522927.35 3661470.24)</point>
+        <osm_id>479297279</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00333333EBFDCA6941EC51B81E4FEF4B41</way>
+      </Record135>
+      <Record136>
+        <point>POINT(13522540.51 3662308.32)</point>
+        <osm_id>479299222</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D0085EB5190CDCA69418FC2F528F2F04B41</way>
+      </Record136>
+      <Record137>
+        <point>POINT(13522447.61 3662262.77)</point>
+        <osm_id>479300368</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00B81E85F3C1CA6941295C8F62DBF04B41</way>
+      </Record137>
+      <Record138>
+        <point>POINT(13521784.27 3662109.03)</point>
+        <osm_id>479302758</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D000AD7A3086FCA69413D0AD7838EF04B41</way>
+      </Record138>
+      <Record139>
+        <point>POINT(13522074.77 3662074.5)</point>
+        <osm_id>479302873</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D000AD7A35893CA6941000000407DF04B41</way>
+      </Record139>
+      <Record140>
+        <point>POINT(13521732.57 3661912.62)</point>
+        <osm_id>479305380</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00A4703D9268CA6941F6285C4F2CF04B41</way>
+      </Record140>
+      <Record141>
+        <point>POINT(13521430.52 3662158.37)</point>
+        <osm_id>479306800</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D000AD7A3D042CA6941F6285C2FA7F04B41</way>
+      </Record141>
+      <Record142>
+        <point>POINT(13521389.49 3662197.84)</point>
+        <osm_id>479314640</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D007B14AEAF3DCA6941B81E85EBBAF04B41</way>
+      </Record142>
+      <Record143>
+        <point>POINT(13522168.82 3661845.19)</point>
+        <osm_id>479317539</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00A4703D1A9FCA694185EB51980AF04B41</way>
+      </Record143>
+      <Record144>
+        <point>POINT(13522571.98 3661707.19)</point>
+        <osm_id>479319990</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00F6285C7FD1CA694185EB5198C5EF4B41</way>
+      </Record144>
+      <Record145>
+        <point>POINT(13522380.47 3661801.22)</point>
+        <osm_id>479322189</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00713D0A8FB9CA6941C3F5289CF4EF4B41</way>
+      </Record145>
+      <Record146>
+        <point>POINT(13522985.43 3662840.7)</point>
+        <osm_id>479994667</osm_id>
+        <amenity>police</amenity>
+        <name>金陵东路 Jinling Donglu</name>
+        <way>010100002031BF0D005C8FC22D05CB69419A999959FCF14B41</way>
+      </Record146>
+      <Record147>
+        <point>POINT(13524118.33 3662349.76)</point>
+        <osm_id>481431000</osm_id>
+        <amenity>post_office</amenity>
+        <way>010100002031BF0D00295C8FCA92CB694114AE47E106F14B41</way>
+      </Record147>
+      <Record148>
+        <point>POINT(13524940.3 3662329.22)</point>
+        <osm_id>481497486</osm_id>
+        <highway>bus_stop</highway>
+        <name>十六铺</name>
+        <tags>"name:en"=&gt;"Shiliupu"</tags>
+        <way>010100002031BF0D009A999989F9CB6941C3F5289CFCF04B41</way>
+      </Record148>
+      <Record149>
+        <point>POINT(13522933.39 3661457.23)</point>
+        <osm_id>482732933</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D0048E17AACFECA6941D7A3709D48EF4B41</way>
+      </Record149>
+      <Record150>
+        <point>POINT(13522158.88 3661843.37)</point>
+        <osm_id>483115423</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00C3F528DC9DCA6941F6285CAF09F04B41</way>
+      </Record150>
+      <Record151>
+        <point>POINT(13522122.1 3661945.96)</point>
+        <osm_id>483122140</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D003333334399CA6941AE47E1FA3CF04B41</way>
+      </Record151>
+      <Record152>
+        <point>POINT(13521752.03 3661805.46)</point>
+        <osm_id>483122165</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D008FC2F5006BCA6941AE47E1BAF6EF4B41</way>
+      </Record152>
+      <Record153>
+        <point>POINT(13522195.03 3662136.1)</point>
+        <osm_id>486131798</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D008FC2F560A2CA6941CDCCCC0C9CF04B41</way>
+      </Record153>
+      <Record154>
+        <point>POINT(13521536.67 3661022.3)</point>
+        <osm_id>486179370</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00D7A3701550CA6941666666266FEE4B41</way>
+      </Record154>
+      <Record155>
+        <point>POINT(13523054.66 3661627.42)</point>
+        <osm_id>486219745</osm_id>
+        <highway>bus_stop</highway>
+        <name>老西门 Laoximen</name>
+        <tags>"name:en"=&gt;"Laoximen"</tags>
+        <way>010100002031BF0D0052B81ED50DCB69415C8FC2B59DEF4B41</way>
+      </Record155>
+      <Record156>
+        <point>POINT(13525192.32 3662871.35)</point>
+        <osm_id>530695728</osm_id>
+        <amenity>ferry_terminal</amenity>
+        <name>东昌路</name>
+        <tags>"name:en"=&gt;"Dongchang Road"</tags>
+        <way>010100002031BF0D00A4703D0A19CC6941CDCCCCAC0BF24B41</way>
+      </Record156>
+      <Record157>
+        <point>POINT(13526124.95 3660666.62)</point>
+        <osm_id>530696367</osm_id>
+        <amenity>ferry_terminal</amenity>
+        <way>010100002031BF0D006666669E8DCC6941F6285C4FBDED4B41</way>
+      </Record157>
+      <Record158>
+        <point>POINT(13524958.23 3662412.73)</point>
+        <osm_id>530696824</osm_id>
+        <amenity>ferry_terminal</amenity>
+        <name>十六铺</name>
+        <tags>"name:en"=&gt;"Shiliupu"</tags>
+        <way>010100002031BF0D00F6285CC7FBCB6941D7A3705D26F14B41</way>
+      </Record158>
+      <Record159>
+        <point>POINT(13524056.01 3663255.12)</point>
+        <osm_id>530696825</osm_id>
+        <amenity>ferry_terminal</amenity>
+        <way>010100002031BF0D0085EB51008BCB6941F6285C8FCBF24B41</way>
+      </Record159>
+      <Record160>
+        <point>POINT(13526689.34 3662684.13)</point>
+        <osm_id>530697097</osm_id>
+        <amenity>cinema</amenity>
+        <way>010100002031BF0D00AE47E12AD4CC69410AD7A310AEF14B41</way>
+      </Record160>
+      <Record161>
+        <point>POINT(13521587.02 3663121.43)</point>
+        <osm_id>538153171</osm_id>
+        <amenity>cafe</amenity>
+        <name>星巴克</name>
+        <way>010100002031BF0D000AD7A36056CA6941713D0AB788F24B41</way>
+      </Record161>
+      <Record162>
+        <point>POINT(13521960.75 3661754.22)</point>
+        <osm_id>554000553</osm_id>
+        <amenity>cafe</amenity>
+        <name>星巴克</name>
+        <tags>"name:en"=&gt;"Starbucks Coffee"</tags>
+        <way>010100002031BF0D000000001885CA6941C3F5281CDDEF4B41</way>
+      </Record162>
+      <Record163>
+        <point>POINT(13522655.89 3663091.77)</point>
+        <osm_id>554246826</osm_id>
+        <shop>butcher</shop>
+        <way>010100002031BF0D0048E17AFCDBCA6941295C8FE279F24B41</way>
+      </Record163>
+      <Record164>
+        <point>POINT(13522689.74 3663055.34)</point>
+        <osm_id>554246827</osm_id>
+        <shop>butcher</shop>
+        <way>010100002031BF0D007B14AE37E0CA6941B81E85AB67F24B41</way>
+      </Record164>
+      <Record165>
+        <point>POINT(13523362.69 3661038.87)</point>
+        <osm_id>571356447</osm_id>
+        <amenity>post_box</amenity>
+        <way>010100002031BF0D00E17A145634CB6941F6285C6F77EE4B41</way>
+      </Record165>
+      <Record166>
+        <point>POINT(13522219.41 3663552.14)</point>
+        <osm_id>573323407</osm_id>
+        <amenity>fast_food</amenity>
+        <name>赛百味 Subway</name>
+        <tags>"cuisine"=&gt;"sandwich", "name:en"=&gt;"Subway"</tags>
+        <way>010100002031BF0D0052B81E6DA5CA69411F85EB1160F34B41</way>
+      </Record166>
+      <Record167>
+        <point>POINT(13522210.32 3663594.05)</point>
+        <osm_id>573323411</osm_id>
+        <amenity>fast_food</amenity>
+        <name>必胜客 Pizza Hut</name>
+        <tags>"cuisine"=&gt;"pizza"</tags>
+        <way>010100002031BF0D00A4703D4AA4CA69416666660675F34B41</way>
+      </Record167>
+      <Record168>
+        <point>POINT(13522158.78 3663259.72)</point>
+        <osm_id>601145227</osm_id>
+        <highway>bus_stop</highway>
+        <name>福州路人民广场 Fuzhou Road, People's Square</name>
+        <way>010100002031BF0D008FC2F5D89DCA6941C3F528DCCDF24B41</way>
+      </Record168>
+      <Record169>
+        <point>POINT(13522071.89 3663279.52)</point>
+        <osm_id>601145232</osm_id>
+        <highway>bus_stop</highway>
+        <name>福州路人民广场</name>
+        <way>010100002031BF0D0048E17AFC92CA6941295C8FC2D7F24B41</way>
+      </Record169>
+      <Record170>
+        <point>POINT(13522189.94 3663084.82)</point>
+        <osm_id>601145300</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00E17A14BEA1CA69418FC2F56876F24B41</way>
+      </Record170>
+      <Record171>
+        <point>POINT(13522198.08 3663070.4)</point>
+        <osm_id>601145301</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00295C8FC2A2CA6941333333336FF24B41</way>
+      </Record171>
+      <Record172>
+        <point>POINT(13522394.01 3662750.57)</point>
+        <osm_id>601145306</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D0085EB5140BBCA69418FC2F548CFF14B41</way>
+      </Record172>
+      <Record173>
+        <point>POINT(13522616.35 3662340.91)</point>
+        <osm_id>601145315</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D003333330BD7CA694148E17A7402F14B41</way>
+      </Record173>
+      <Record174>
+        <point>POINT(13521958.24 3661098.25)</point>
+        <osm_id>601661256</osm_id>
+        <name>新天地</name>
+        <railway>station</railway>
+        <tags>"name:en"=&gt;"Xintiandi"</tags>
+        <way>010100002031BF0D007B14AEC784CA69410000002095EE4B41</way>
+      </Record174>
+      <Record175>
+        <point>POINT(13523778.5 3663082.26)</point>
+        <osm_id>602334140</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D000000005068CB694114AE472175F24B41</way>
+      </Record175>
+      <Record176>
+        <point>POINT(13524659.91 3661223.98)</point>
+        <osm_id>608700783</osm_id>
+        <name>小南门</name>
+        <railway>station</railway>
+        <tags>"name:en"=&gt;"Xiaonanmen"</tags>
+        <way>010100002031BF0D0052B81E7DD6CB6941D7A370FDD3EE4B41</way>
+      </Record176>
+      <Record177>
+        <point>POINT(13526659.6 3662980.82)</point>
+        <osm_id>608700785</osm_id>
+        <name>商城路</name>
+        <railway>station</railway>
+        <tags>"name:en"=&gt;"Shangcheng Road"</tags>
+        <way>010100002031BF0D0033333373D0CC69418FC2F56842F24B41</way>
+      </Record177>
+      <Record178>
+        <point>POINT(13523810.8 3662874.58)</point>
+        <osm_id>619006945</osm_id>
+        <highway>bus_stop</highway>
+        <name>新北门</name>
+        <tags>"name:en"=&gt;"Xinbeimen"</tags>
+        <way>010100002031BF0D009A9999596CCB6941A4703D4A0DF24B41</way>
+      </Record178>
+      <Record179>
+        <point>POINT(13523353.07 3662751.56)</point>
+        <osm_id>619006946</osm_id>
+        <highway>bus_stop</highway>
+        <name>老北门</name>
+        <tags>"name:en"=&gt;"Laobeimen"</tags>
+        <way>010100002031BF0D00A4703D2233CB69417B14AEC7CFF14B41</way>
+      </Record179>
+      <Record180>
+        <point>POINT(13522914.75 3662303.69)</point>
+        <osm_id>619007633</osm_id>
+        <highway>bus_stop</highway>
+        <name>小北门 Xiaobeimen</name>
+        <tags>"name:en"=&gt;"Xiaobeimen"</tags>
+        <way>010100002031BF0D0000000058FCCA694185EB51D8EFF04B41</way>
+      </Record180>
+      <Record181>
+        <point>POINT(13523603.88 3660937.38)</point>
+        <osm_id>619007634</osm_id>
+        <highway>bus_stop</highway>
+        <name>尚文路</name>
+        <tags>"name:en"=&gt;"Shangwen Road"</tags>
+        <way>010100002031BF0D00C3F5287C52CB69410AD7A3B044EE4B41</way>
+      </Record181>
+      <Record182>
+        <point>POINT(13521846.43 3663524.45)</point>
+        <osm_id>619219642</osm_id>
+        <housenumber>88</housenumber>
+        <name>新世界丽笙大酒店 Radisson New World</name>
+        <tourism>hotel</tourism>
+        <tags>"phone"=&gt;"+86 21 63599999", "name:en"=&gt;"Radisson New World", "wpt_symbol"=&gt;"Lodging", "addr:street"=&gt;"Nanjing Road"</tags>
+        <way>010100002031BF0D005C8FC2CD76CA69419A99993952F34B41</way>
+      </Record182>
+      <Record183>
+        <point>POINT(13521526.8 3663139.88)</point>
+        <osm_id>619220428</osm_id>
+        <building>yes</building>
+        <name>创兴金融中心</name>
+        <tags>"name:en"=&gt;"Chuangxin Financial Center"</tags>
+        <way>010100002031BF0D009A9999D94ECA69410AD7A3F091F24B41</way>
+      </Record183>
+      <Record184>
+        <point>POINT(13521461.81 3662948.42)</point>
+        <osm_id>619220944</osm_id>
+        <name>万豪酒店</name>
+        <operator>万豪国际</operator>
+        <tourism>hotel</tourism>
+        <tags>"name:en"=&gt;"JW Marriott Hotel at Tomorrow Square", "wpt_symbol"=&gt;"Lodging"</tags>
+        <way>010100002031BF0D001F85EBB946CA69415C8FC23532F24B41</way>
+      </Record184>
+      <Record185>
+        <point>POINT(13521984.32 3662821.68)</point>
+        <osm_id>622678107</osm_id>
+        <amenity>fountain</amenity>
+        <way>010100002031BF0D00A4703D0A88CA6941713D0AD7F2F14B41</way>
+      </Record185>
+      <Record186>
+        <point>POINT(13522913.91 3661464.94)</point>
+        <osm_id>624783812</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D0052B81E3DFCCA694185EB51784CEF4B41</way>
+      </Record186>
+      <Record187>
+        <point>POINT(13522921.91 3661449.74)</point>
+        <osm_id>624784002</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D0052B81E3DFDCA6941EC51B8DE44EF4B41</way>
+      </Record187>
+      <Record188>
+        <point>POINT(13521744.93 3663351.63)</point>
+        <osm_id>638736459</osm_id>
+        <highway>bus_stop</highway>
+        <name>九江路黄河路</name>
+        <way>010100002031BF0D005C8FC21D6ACA69410AD7A3D0FBF24B41</way>
+      </Record188>
+      <Record189>
+        <point>POINT(13521684.01 3663387.46)</point>
+        <osm_id>638736460</osm_id>
+        <amenity>restaurant</amenity>
+        <name>国际饭店 Park Hotel</name>
+        <tags>"name:en"=&gt;"Park Hotel"</tags>
+        <way>010100002031BF0D0085EB518062CA6941AE47E1BA0DF34B41</way>
+      </Record189>
+      <Record190>
+        <point>POINT(13522130.7 3663521.24)</point>
+        <osm_id>638736461</osm_id>
+        <amenity>cafe</amenity>
+        <name>星巴克 Starbucks</name>
+        <tags>"name:en"=&gt;"Starbuck's Coffee"</tags>
+        <way>010100002031BF0D00666666569ACA6941EC51B89E50F34B41</way>
+      </Record190>
+      <Record191>
+        <point>POINT(13522502.14 3663578.56)</point>
+        <osm_id>638736462</osm_id>
+        <amenity>toilets</amenity>
+        <way>010100002031BF0D0048E17AC4C8CA69417B14AE476DF34B41</way>
+      </Record191>
+      <Record192>
+        <point>POINT(13523136.05 3661509.37)</point>
+        <osm_id>639305947</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D009A99990118CB6941F6285CAF62EF4B41</way>
+      </Record192>
+      <Record193>
+        <point>POINT(13523629.78 3661927.6)</point>
+        <osm_id>639308635</osm_id>
+        <amenity>bank</amenity>
+        <name>工商银行</name>
+        <tags>"name:en"=&gt;"ICBC"</tags>
+        <way>010100002031BF0D008FC2F5B855CB6941CDCCCCCC33F04B41</way>
+      </Record193>
+      <Record194>
+        <point>POINT(13523559.31 3662079.29)</point>
+        <osm_id>639308636</osm_id>
+        <amenity>bank</amenity>
+        <name>招商银行</name>
+        <tags>"name:en"=&gt;"China Merchants Bank"</tags>
+        <way>010100002031BF0D001F85EBE94CCB694152B81EA57FF04B41</way>
+      </Record194>
+      <Record195>
+        <point>POINT(13523530.65 3662160.51)</point>
+        <osm_id>639308637</osm_id>
+        <amenity>bank</amenity>
+        <name>中国银行</name>
+        <tags>"name:en"=&gt;"Bank of China"</tags>
+        <way>010100002031BF0D00CDCCCC5449CB694114AE4741A8F04B41</way>
+      </Record195>
+      <Record196>
+        <point>POINT(13523537.82 3662142.58)</point>
+        <osm_id>639308638</osm_id>
+        <amenity>bank</amenity>
+        <name>浦东发展银行</name>
+        <tags>"name:en"=&gt;"Pudong Development Bank"</tags>
+        <way>010100002031BF0D00A4703D3A4ACB6941A4703D4A9FF04B41</way>
+      </Record196>
+      <Record197>
+        <point>POINT(13526553.92 3661893.33)</point>
+        <osm_id>639372724</osm_id>
+        <name>全家 FamilyMart</name>
+        <operator>全家 FamilyMart</operator>
+        <shop>convenience</shop>
+        <way>010100002031BF0D00D7A3703DC3CC6941A4703DAA22F04B41</way>
+      </Record197>
+      <Record198>
+        <point>POINT(13521879.68 3661555.2)</point>
+        <osm_id>647522445</osm_id>
+        <amenity>bank</amenity>
+        <name>中国银行</name>
+        <operator>中国银行</operator>
+        <tags>"name:en"=&gt;"Bank of China"</tags>
+        <way>010100002031BF0D005C8FC2F57ACA69419A99999979EF4B41</way>
+      </Record198>
+      <Record199>
+        <point>POINT(13521831.94 3661514.61)</point>
+        <osm_id>647522451</osm_id>
+        <amenity>bank</amenity>
+        <name>恒生银行</name>
+        <operator>恒生银行</operator>
+        <tags>"name:en"=&gt;"Hang Seng Bank"</tags>
+        <way>010100002031BF0D00E17A14FE74CA6941E17A144E65EF4B41</way>
+      </Record199>
+      <Record200>
+        <point>POINT(13521920.48 3661540.87)</point>
+        <osm_id>647522468</osm_id>
+        <amenity>atm</amenity>
+        <tags>"name:en"=&gt;"Citibank"</tags>
+        <way>010100002031BF0D00F6285C0F80CA6941F6285C6F72EF4B41</way>
+      </Record200>
+      <Record201>
+        <point>POINT(13521946.61 3661550.42)</point>
+        <osm_id>647522507</osm_id>
+        <shop>supermarket</shop>
+        <tags>"name:en"=&gt;"GL Japan Plaza"</tags>
+        <way>010100002031BF0D00B81E855383CA69415C8FC23577EF4B41</way>
+      </Record201>
+      <Record202>
+        <point>POINT(13521977.06 3661593.42)</point>
+        <osm_id>647522513</osm_id>
+        <amenity>cafe</amenity>
+        <tags>"name:en"=&gt;"Zen Life Store"</tags>
+        <way>010100002031BF0D001F85EB2187CA69415C8FC2B58CEF4B41</way>
+      </Record202>
+      <Record203>
+        <point>POINT(13521969.91 3661632.84)</point>
+        <osm_id>647522518</osm_id>
+        <amenity>restaurant</amenity>
+        <tags>"name:en"=&gt;"Simply Thai"</tags>
+        <way>010100002031BF0D0052B81E3D86CA6941B81E856BA0EF4B41</way>
+      </Record203>
+      <Record204>
+        <point>POINT(13521605.18 3663299.92)</point>
+        <osm_id>654576866</osm_id>
+        <amenity>fast_food</amenity>
+        <name>东方既白</name>
+        <way>010100002031BF0D005C8FC2A558CA69415C8FC2F5E1F24B41</way>
+      </Record204>
+      <Record205>
+        <point>POINT(13522241.76 3663531.63)</point>
+        <osm_id>654578461</osm_id>
+        <name>南新雅华美达大酒店</name>
+        <tourism>hotel</tourism>
+        <tags>"name:en"=&gt;"Ramada Plaza Shanghai"</tags>
+        <way>010100002031BF0D0085EB5138A8CA69410AD7A3D055F34B41</way>
+      </Record205>
+      <Record206>
+        <point>POINT(13521728.2 3663168.55)</point>
+        <osm_id>654579825</osm_id>
+        <leisure>park</leisure>
+        <name>大草坪</name>
+        <way>010100002031BF0D006666660668CA694166666646A0F24B41</way>
+      </Record206>
+      <Record207>
+        <point>POINT(13523727.05 3663204.44)</point>
+        <osm_id>677799505</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D009A9999E161CB694185EB5138B2F24B41</way>
+      </Record207>
+      <Record208>
+        <point>POINT(13523919.77 3663313.53)</point>
+        <osm_id>677799508</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D000AD7A3F879CB69413D0AD7C3E8F24B41</way>
+      </Record208>
+      <Record209>
+        <point>POINT(13523447.42 3662708.6)</point>
+        <osm_id>773662890</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>1</ref>
+        <way>010100002031BF0D00D7A370ED3ECB6941CDCCCC4CBAF14B41</way>
+      </Record209>
+      <Record210>
+        <point>POINT(13524081.61 3662049.07)</point>
+        <osm_id>778910398</osm_id>
+        <name>上海市</name>
+        <place>city</place>
+        <population>23019148</population>
+        <tags>"rank"=&gt;"0", "name:ar"=&gt;"شانغهاي", "name:cs"=&gt;"Šanghaj", "name:de"=&gt;"Shanghai", "name:en"=&gt;"Shanghai", "name:es"=&gt;"Shanghái", "name:fr"=&gt;"Shanghaï", "name:it"=&gt;"Sciangai", "name:ja"=&gt;"上海市", "name:kn"=&gt;"ಶಾಂಗ್ಹೈ", "name:ku"=&gt;"Şanghay", "name:ru"=&gt;"Шанхай", "name:sk"=&gt;"Šanghaj", "name:sr"=&gt;"Шангај", "name:sv"=&gt;"Shanghai", "name:vi"=&gt;"Thượng Hải", "int_name"=&gt;"Shanghai", "name:jbo"=&gt;".canxais.", "wikipedia"=&gt;"en:Shanghai", "is_in:country"=&gt;"China", "name:zh_pinyin"=&gt;"Shànghǎi Shì", "is_in:continent"=&gt;"Asia", "is_in:country_code"=&gt;"CN"</tags>
+        <way>010100002031BF0D00B81E85338ECB69418FC2F58870F04B41</way>
+      </Record210>
+      <Record211>
+        <point>POINT(13523115.54 3663013.05)</point>
+        <osm_id>784179325</osm_id>
+        <amenity>bank</amenity>
+        <operator>Deutsche Bank</operator>
+        <tags>"atm"=&gt;"yes", "name:en"=&gt;"Deutsche Bank"</tags>
+        <way>010100002031BF0D0014AE477115CB69416666668652F24B41</way>
+      </Record211>
+      <Record212>
+        <point>POINT(13523108.63 3663208.85)</point>
+        <osm_id>784179351</osm_id>
+        <tourism>hotel</tourism>
+        <tags>"stars"=&gt;"4", "name:en"=&gt;"Salvo Hotel Shanghai"</tags>
+        <way>010100002031BF0D00C3F5289414CB6941CDCCCC6CB4F24B41</way>
+      </Record212>
+      <Record213>
+        <point>POINT(13523650.12 3663600.54)</point>
+        <osm_id>784179386</osm_id>
+        <amenity>bar</amenity>
+        <tags>"name:en"=&gt;"Captain Bar"</tags>
+        <way>010100002031BF0D003D0AD74358CB694152B81E4578F34B41</way>
+      </Record213>
+      <Record214>
+        <point>POINT(13521566.9 3663079.45)</point>
+        <osm_id>784179416</osm_id>
+        <amenity>restaurant</amenity>
+        <tags>"name:en"=&gt;"Kathleen's 5"</tags>
+        <way>010100002031BF0D00CDCCCCDC53CA69419A9999B973F24B41</way>
+      </Record214>
+      <Record215>
+        <point>POINT(13524665.17 3663457.52)</point>
+        <osm_id>784179440</osm_id>
+        <amenity>pub</amenity>
+        <tags>"name:en"=&gt;"Paulaner Münchner Biergarten"</tags>
+        <way>010100002031BF0D00D7A37025D7CB6941295C8FC230F34B41</way>
+      </Record215>
+      <Record216>
+        <point>POINT(13521414.11 3662840.89)</point>
+        <osm_id>815462228</osm_id>
+        <tourism>hostel</tourism>
+        <tags>"name:en"=&gt;"Mingtown Etour Youth Hostel"</tags>
+        <way>010100002031BF0D00B81E85C340CA69411F85EB71FCF14B41</way>
+      </Record216>
+      <Record217>
+        <point>POINT(13522337.14 3662088.75)</point>
+        <osm_id>824493205</osm_id>
+        <highway>bus_stop</highway>
+        <way>010100002031BF0D0048E17A24B4CA69410000006084F04B41</way>
+      </Record217>
+      <Record218>
+        <point>POINT(13521973.65 3661551.19)</point>
+        <osm_id>832930568</osm_id>
+        <amenity>parking</amenity>
+        <layer>-1</layer>
+        <way>010100002031BF0D00CDCCCCB486CA694185EB519877EF4B41</way>
+      </Record218>
+      <Record219>
+        <point>POINT(13521976.63 3661698.09)</point>
+        <osm_id>832930580</osm_id>
+        <amenity>restaurant</amenity>
+        <tags>"name:en"=&gt;"Paulaner Xintiandi"</tags>
+        <way>010100002031BF0D00C3F5281487CA6941B81E850BC1EF4B41</way>
+      </Record219>
+      <Record220>
+        <point>POINT(13524561.57 3663527.58)</point>
+        <osm_id>842083629</osm_id>
+        <amenity>restaurant</amenity>
+        <tags/>
+        <way>010100002031BF0D00A4703D32CACB6941A4703DCA53F34B41</way>
+      </Record220>
+      <Record221>
+        <point>POINT(13523429.5 3662616.63)</point>
+        <osm_id>845389048</osm_id>
+        <name>豫园</name>
+        <railway>station</railway>
+        <tags>"name:en"=&gt;"Yu Garden"</tags>
+        <way>010100002031BF0D00000000B03CCB69410AD7A3508CF14B41</way>
+      </Record221>
+      <Record222>
+        <point>POINT(13521726.84 3662700.03)</point>
+        <osm_id>848252254</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00AE47E1DA67CA69413D0AD703B6F14B41</way>
+      </Record222>
+      <Record223>
+        <point>POINT(13521736.69 3662707.57)</point>
+        <osm_id>848252255</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00E17A141669CA69418FC2F5C8B9F14B41</way>
+      </Record223>
+      <Record224>
+        <point>POINT(13521746.53 3662715.12)</point>
+        <osm_id>848252256</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D008FC2F5506ACA6941F6285C8FBDF14B41</way>
+      </Record224>
+      <Record225>
+        <point>POINT(13521756.37 3662722.66)</point>
+        <osm_id>848252257</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D003D0AD78B6BCA694148E17A54C1F14B41</way>
+      </Record225>
+      <Record226>
+        <point>POINT(13521697.32 3662677.39)</point>
+        <osm_id>848252261</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00A4703D2A64CA69411F85EBB1AAF14B41</way>
+      </Record226>
+      <Record227>
+        <point>POINT(13521707.16 3662684.94)</point>
+        <osm_id>848252262</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D0052B81E6565CA694185EB5178AEF14B41</way>
+      </Record227>
+      <Record228>
+        <point>POINT(13521717 3662692.48)</point>
+        <osm_id>848252263</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00000000A066CA6941D7A3703DB2F14B41</way>
+      </Record228>
+      <Record229>
+        <point>POINT(13521927.06 3662854.64)</point>
+        <osm_id>848252265</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D001F85EBE180CA69411F85EB5103F24B41</way>
+      </Record229>
+      <Record230>
+        <point>POINT(13521843.84 3662831.62)</point>
+        <osm_id>848252266</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00AE47E17A76CA6941F6285CCFF7F14B41</way>
+      </Record230>
+      <Record231>
+        <point>POINT(13521851.01 3662837.6)</point>
+        <osm_id>848252267</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D0085EB516077CA6941CDCCCCCCFAF14B41</way>
+      </Record231>
+      <Record232>
+        <point>POINT(13521858.17 3662843.56)</point>
+        <osm_id>848252268</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00D7A3704578CA69417B14AEC7FDF14B41</way>
+      </Record232>
+      <Record233>
+        <point>POINT(13521897.22 3662873.65)</point>
+        <osm_id>848252270</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00713D0A277DCA6941333333D30CF24B41</way>
+      </Record233>
+      <Record234>
+        <point>POINT(13521905.94 3662879.4)</point>
+        <osm_id>848252271</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00E17A143E7ECA6941333333B30FF24B41</way>
+      </Record234>
+      <Record235>
+        <point>POINT(13521900.78 3662833.13)</point>
+        <osm_id>848252272</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D008FC2F5987DCA69410AD7A390F8F14B41</way>
+      </Record235>
+      <Record236>
+        <point>POINT(13521907.94 3662840.3)</point>
+        <osm_id>848252273</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00E17A147E7ECA694166666626FCF14B41</way>
+      </Record236>
+      <Record237>
+        <point>POINT(13521917.5 3662846.27)</point>
+        <osm_id>848252274</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00000000B07FCA6941295C8F22FFF14B41</way>
+      </Record237>
+      <Record238>
+        <point>POINT(13522095.25 3663024.51)</point>
+        <osm_id>848252275</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00000000E895CA694114AE474158F24B41</way>
+      </Record238>
+      <Record239>
+        <point>POINT(13522102.41 3663031.67)</point>
+        <osm_id>848252276</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D0052B81ECD96CA69415C8FC2D55BF24B41</way>
+      </Record239>
+      <Record240>
+        <point>POINT(13522142.35 3663103.35)</point>
+        <osm_id>848252277</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00333333CB9BCA6941CDCCCCAC7FF24B41</way>
+      </Record240>
+      <Record241>
+        <point>POINT(13521880.86 3662861.47)</point>
+        <osm_id>848252278</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00B81E851B7BCA6941C3F528BC06F24B41</way>
+      </Record241>
+      <Record242>
+        <point>POINT(13521889.22 3662867.45)</point>
+        <osm_id>848252279</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00713D0A277CCA69419A9999B909F24B41</way>
+      </Record242>
+      <Record243>
+        <point>POINT(13522049.87 3662993.46)</point>
+        <osm_id>848252280</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D003D0AD73B90CA6941AE47E1BA48F24B41</way>
+      </Record243>
+      <Record244>
+        <point>POINT(13522057.02 3662998.22)</point>
+        <osm_id>848252281</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D000AD7A32091CA6941C3F5281C4BF24B41</way>
+      </Record244>
+      <Record245>
+        <point>POINT(13522063 3663003)</point>
+        <osm_id>848252282</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00000000E091CA6941000000804DF24B41</way>
+      </Record245>
+      <Record246>
+        <point>POINT(13522070.17 3663008.98)</point>
+        <osm_id>848252283</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00D7A370C592CA6941D7A3707D50F24B41</way>
+      </Record246>
+      <Record247>
+        <point>POINT(13522088.08 3663020.93)</point>
+        <osm_id>848252284</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00295C8F0295CA6941713D0A7756F24B41</way>
+      </Record247>
+      <Record248>
+        <point>POINT(13522006.86 3662960.01)</point>
+        <osm_id>848252285</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00B81E85DB8ACA694114AE470138F24B41</way>
+      </Record248>
+      <Record249>
+        <point>POINT(13522015.22 3662965.99)</point>
+        <osm_id>848252286</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00713D0AE78BCA6941EC51B8FE3AF24B41</way>
+      </Record249>
+      <Record250>
+        <point>POINT(13522031.94 3662977.93)</point>
+        <osm_id>848252287</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00E17A14FE8DCA6941713D0AF740F24B41</way>
+      </Record250>
+      <Record251>
+        <point>POINT(13522037.92 3662982.7)</point>
+        <osm_id>848252288</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00D7A370BD8ECA69419A99995943F24B41</way>
+      </Record251>
+      <Record252>
+        <point>POINT(13522043.89 3662988.68)</point>
+        <osm_id>848252289</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D0048E17A7C8FCA6941713D0A5746F24B41</way>
+      </Record252>
+      <Record253>
+        <point>POINT(13521956.7 3662920.59)</point>
+        <osm_id>848252290</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D006666669684CA6941B81E854B24F24B41</way>
+      </Record253>
+      <Record254>
+        <point>POINT(13521966.25 3662927.76)</point>
+        <osm_id>848252291</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00000000C885CA694114AE47E127F24B41</way>
+      </Record254>
+      <Record255>
+        <point>POINT(13521975.82 3662934.92)</point>
+        <osm_id>848252293</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00A4703DFA86CA69415C8FC2752BF24B41</way>
+      </Record255>
+      <Record256>
+        <point>POINT(13521992.54 3662949.26)</point>
+        <osm_id>848252294</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D0014AE471189CA694114AE47A132F24B41</way>
+      </Record256>
+      <Record257>
+        <point>POINT(13521999.71 3662955.23)</point>
+        <osm_id>848252296</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00EC51B8F689CA6941D7A3709D35F24B41</way>
+      </Record257>
+      <Record258>
+        <point>POINT(13521974.11 3662887.99)</point>
+        <osm_id>848252299</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00B81E85C386CA6941EC51B8FE13F24B41</way>
+      </Record258>
+      <Record259>
+        <point>POINT(13521983.66 3662893.95)</point>
+        <osm_id>848252300</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D0052B81EF587CA69419A9999F916F24B41</way>
+      </Record259>
+      <Record260>
+        <point>POINT(13521992.02 3662902.33)</point>
+        <osm_id>848252301</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D000AD7A30089CA6941A4703D2A1BF24B41</way>
+      </Record260>
+      <Record261>
+        <point>POINT(13522001.58 3662909.49)</point>
+        <osm_id>848252302</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00295C8F328ACA6941EC51B8BE1EF24B41</way>
+      </Record261>
+      <Record262>
+        <point>POINT(13521948.34 3662913.43)</point>
+        <osm_id>848252304</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00AE47E18A83CA6941713D0AB720F24B41</way>
+      </Record262>
+      <Record263>
+        <point>POINT(13522019.5 3662923.82)</point>
+        <osm_id>848252305</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00000000708CCA69418FC2F5E825F24B41</way>
+      </Record263>
+      <Record264>
+        <point>POINT(13522025.46 3662927.4)</point>
+        <osm_id>848252306</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00EC51B82E8DCA6941333333B327F24B41</way>
+      </Record264>
+      <Record265>
+        <point>POINT(13522038.6 3662938.15)</point>
+        <osm_id>848252307</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00333333D38ECA6941333333132DF24B41</way>
+      </Record265>
+      <Record266>
+        <point>POINT(13522035.02 3662934.57)</point>
+        <osm_id>848252308</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D000AD7A3608ECA69418FC2F5482BF24B41</way>
+      </Record266>
+      <Record267>
+        <point>POINT(13522043.39 3662941.73)</point>
+        <osm_id>848252309</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D0048E17A6C8FCA6941D7A370DD2EF24B41</way>
+      </Record267>
+      <Record268>
+        <point>POINT(13522074.43 3662964.42)</point>
+        <osm_id>848252310</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D005C8FC24D93CA69415C8FC2353AF24B41</way>
+      </Record268>
+      <Record269>
+        <point>POINT(13522067.27 3662959.65)</point>
+        <osm_id>848252311</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D000AD7A36892CA6941333333D337F24B41</way>
+      </Record269>
+      <Record270>
+        <point>POINT(13522058.91 3662952.49)</point>
+        <osm_id>848252312</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D0052B81E5D91CA6941EC51B83E34F24B41</way>
+      </Record270>
+      <Record271>
+        <point>POINT(13522050.55 3662946.51)</point>
+        <osm_id>848252313</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D009A99995190CA694114AE474131F24B41</way>
+      </Record271>
+      <Record272>
+        <point>POINT(13522013.52 3662919.04)</point>
+        <osm_id>848252314</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D000AD7A3B08BCA694152B81E8523F24B41</way>
+      </Record272>
+      <Record273>
+        <point>POINT(13522112.65 3662993.09)</point>
+        <osm_id>848252316</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00CDCCCC1498CA6941B81E858B48F24B41</way>
+      </Record273>
+      <Record274>
+        <point>POINT(13522105.48 3662988.31)</point>
+        <osm_id>848252318</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00F6285C2F97CA69417B14AE2746F24B41</way>
+      </Record274>
+      <Record275>
+        <point>POINT(13522098.32 3662982.34)</point>
+        <osm_id>848252320</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00A4703D4A96CA6941B81E852B43F24B41</way>
+      </Record275>
+      <Record276>
+        <point>POINT(13522091.15 3662977.56)</point>
+        <osm_id>848252321</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00CDCCCC6495CA69417B14AEC740F24B41</way>
+      </Record276>
+      <Record277>
+        <point>POINT(13522082.79 3662971.6)</point>
+        <osm_id>848252322</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D0014AE475994CA6941CDCCCCCC3DF24B41</way>
+      </Record277>
+      <Record278>
+        <point>POINT(13522128.18 3663005.03)</point>
+        <osm_id>848252323</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D005C8FC2059ACA69413D0AD7834EF24B41</way>
+      </Record278>
+      <Record279>
+        <point>POINT(13522121.01 3662999.07)</point>
+        <osm_id>848252324</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D0085EB512099CA69418FC2F5884BF24B41</way>
+      </Record279>
+      <Record280>
+        <point>POINT(13522177.15 3662624.04)</point>
+        <osm_id>848254787</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00CDCCCC24A0CA694152B81E0590F14B41</way>
+      </Record280>
+      <Record281>
+        <point>POINT(13522184.62 3662630.92)</point>
+        <osm_id>848254788</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D003D0AD713A1CA69415C8FC27593F14B41</way>
+      </Record281>
+      <Record282>
+        <point>POINT(13522197.61 3662646.52)</point>
+        <osm_id>848254789</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00B81E85B3A2CA6941295C8F429BF14B41</way>
+      </Record282>
+      <Record283>
+        <point>POINT(13522202.67 3662653.98)</point>
+        <osm_id>848254790</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00D7A37055A3CA6941D7A370FD9EF14B41</way>
+      </Record283>
+      <Record284>
+        <point>POINT(13522208.28 3662662.19)</point>
+        <osm_id>848254791</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D008FC2F508A4CA694185EB5118A3F14B41</way>
+      </Record284>
+      <Record285>
+        <point>POINT(13522119.66 3662579.65)</point>
+        <osm_id>848254792</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D0052B81EF598CA6941333333D379F14B41</way>
+      </Record285>
+      <Record286>
+        <point>POINT(13522128.01 3662585.01)</point>
+        <osm_id>848254793</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D0085EB51009ACA694114AE47817CF14B41</way>
+      </Record286>
+      <Record287>
+        <point>POINT(13522136.08 3662591.59)</point>
+        <osm_id>848254794</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00295C8F029BCA6941B81E85CB7FF14B41</way>
+      </Record287>
+      <Record288>
+        <point>POINT(13522160.8 3662610.52)</point>
+        <osm_id>848254795</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D009A9999199ECA6941295C8F4289F14B41</way>
+      </Record288>
+      <Record289>
+        <point>POINT(13522169.98 3662618.07)</point>
+        <osm_id>848254796</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00F6285C3F9FCA69418FC2F5088DF14B41</way>
+      </Record289>
+      <Record290>
+        <point>POINT(13522069.66 3662555.97)</point>
+        <osm_id>848254797</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D0052B81EB592CA6941C3F528FC6DF14B41</way>
+      </Record290>
+      <Record291>
+        <point>POINT(13522083.16 3662560.37)</point>
+        <osm_id>848254798</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D0052B81E6594CA6941F6285C2F70F14B41</way>
+      </Record291>
+      <Record292>
+        <point>POINT(13522093.98 3662564.4)</point>
+        <osm_id>848254799</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00F6285CBF95CA69413333333372F14B41</way>
+      </Record292>
+      <Record293>
+        <point>POINT(13522111.5 3662573.82)</point>
+        <osm_id>848254800</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00000000F097CA69418FC2F5E876F14B41</way>
+      </Record293>
+      <Record294>
+        <point>POINT(13521815.43 3662767.92)</point>
+        <osm_id>848255472</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D005C8FC2ED72CA69415C8FC2F5D7F14B41</way>
+      </Record294>
+      <Record295>
+        <point>POINT(13521825.27 3662775.47)</point>
+        <osm_id>848255473</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D000AD7A32874CA6941C3F528BCDBF14B41</way>
+      </Record295>
+      <Record296>
+        <point>POINT(13521835.11 3662783.01)</point>
+        <osm_id>848255474</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00B81E856375CA694114AE4781DFF14B41</way>
+      </Record296>
+      <Record297>
+        <point>POINT(13521844.96 3662790.56)</point>
+        <osm_id>848255476</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00EC51B89E76CA69417B14AE47E3F14B41</way>
+      </Record297>
+      <Record298>
+        <point>POINT(13521766.21 3662730.21)</point>
+        <osm_id>848255477</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00EC51B8C66CCA6941AE47E11AC5F14B41</way>
+      </Record298>
+      <Record299>
+        <point>POINT(13521776.05 3662737.74)</point>
+        <osm_id>848255478</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D009A9999016ECA6941EC51B8DEC8F14B41</way>
+      </Record299>
+      <Record300>
+        <point>POINT(13521785.91 3662745.3)</point>
+        <osm_id>848255479</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D0052B81E3D6FCA6941666666A6CCF14B41</way>
+      </Record300>
+      <Record301>
+        <point>POINT(13521795.75 3662752.83)</point>
+        <osm_id>848255480</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D000000007870CA6941A4703D6AD0F14B41</way>
+      </Record301>
+      <Record302>
+        <point>POINT(13521805.59 3662760.38)</point>
+        <osm_id>848255481</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00AE47E1B271CA69410AD7A330D4F14B41</way>
+      </Record302>
+      <Record303>
+        <point>POINT(13521406.45 3663344.45)</point>
+        <osm_id>848682286</osm_id>
+        <name>联华</name>
+        <shop>supermarket</shop>
+        <tags>"name:en"=&gt;"Lianhua"</tags>
+        <way>010100002031BF0D00666666CE3FCA69419A999939F8F24B41</way>
+      </Record303>
+      <Record304>
+        <point>POINT(13525798.87 3663346.44)</point>
+        <osm_id>848698235</osm_id>
+        <highway>crossing</highway>
+        <tags>"crossing_ref"=&gt;"zebra"</tags>
+        <way>010100002031BF0D003D0AD7DB64CC694185EB5138F9F24B41</way>
+      </Record304>
+      <Record305>
+        <point>POINT(13525804.41 3663321.21)</point>
+        <osm_id>848698265</osm_id>
+        <highway>crossing</highway>
+        <tags>"crossing_ref"=&gt;"zebra"</tags>
+        <way>010100002031BF0D0052B81E8D65CC6941AE47E19AECF24B41</way>
+      </Record305>
+      <Record306>
+        <point>POINT(13521377.51 3662133.31)</point>
+        <osm_id>850283413</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D0085EB51303CCA69417B14AEA79AF04B41</way>
+      </Record306>
+      <Record307>
+        <point>POINT(13521335.74 3662173.35)</point>
+        <osm_id>850287516</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D007B14AEF736CA6941CDCCCCACAEF04B41</way>
+      </Record307>
+      <Record308>
+        <point>POINT(13522193.72 3661188.42)</point>
+        <osm_id>857780845</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00713D0A37A2CA69415C8FC235C2EE4B41</way>
+      </Record308>
+      <Record309>
+        <point>POINT(13522560.98 3661333.1)</point>
+        <osm_id>857780856</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00F6285C1FD0CA6941CDCCCC8C0AEF4B41</way>
+      </Record309>
+      <Record310>
+        <point>POINT(13522463.08 3661549.41)</point>
+        <osm_id>857780858</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00295C8FE2C3CA694148E17AB476EF4B41</way>
+      </Record310>
+      <Record311>
+        <point>POINT(13521777.38 3661690.31)</point>
+        <osm_id>857781031</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00C3F5282C6ECA69417B14AE27BDEF4B41</way>
+      </Record311>
+      <Record312>
+        <point>POINT(13524353.91 3662752.78)</point>
+        <osm_id>882614350</osm_id>
+        <amenity>bus_station</amenity>
+        <way>010100002031BF0D0052B81E3DB0CB69413D0AD763D0F14B41</way>
+      </Record312>
+      <Record313>
+        <point>POINT(13523380.53 3662689.49)</point>
+        <osm_id>882614353</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>4</ref>
+        <way>010100002031BF0D008FC2F59036CB6941EC51B8BEB0F14B41</way>
+      </Record313>
+      <Record314>
+        <point>POINT(13523429.5 3662488.85)</point>
+        <osm_id>882614360</osm_id>
+        <railway>subway_entrance</railway>
+        <ref>3</ref>
+        <way>010100002031BF0D00000000B03CCB6941CDCCCC6C4CF14B41</way>
+      </Record314>
+      <Record315>
+        <point>POINT(13521859.63 3662598.02)</point>
+        <osm_id>884224389</osm_id>
+        <amenity>toilets</amenity>
+        <way>010100002031BF0D00C3F5287478CA6941295C8F0283F14B41</way>
+      </Record315>
+      <Record316>
+        <point>POINT(13521693.45 3663329.16)</point>
+        <osm_id>884226718</osm_id>
+        <amenity>toilets</amenity>
+        <way>010100002031BF0D00666666AE63CA694148E17A94F0F24B41</way>
+      </Record316>
+      <Record317>
+        <point>POINT(13526667.23 3662657.99)</point>
+        <osm_id>956653828</osm_id>
+        <shop>supermarket</shop>
+        <way>010100002031BF0D00F6285C67D1CC6941EC51B8FEA0F14B41</way>
+      </Record317>
+      <Record318>
+        <point>POINT(13525275.43 3661989.01)</point>
+        <osm_id>1168464095</osm_id>
+        <amenity>ferry_terminal</amenity>
+        <way>010100002031BF0D005C8FC26D23CC694114AE478152F04B41</way>
+      </Record318>
+      <Record319>
+        <point>POINT(13525779.97 3662135.97)</point>
+        <osm_id>1168464141</osm_id>
+        <amenity>ferry_terminal</amenity>
+        <way>010100002031BF0D00713D0A7F62CC6941C3F528FC9BF04B41</way>
+      </Record319>
+      <Record320>
+        <point>POINT(13521608.16 3663267.18)</point>
+        <osm_id>1172174589</osm_id>
+        <amenity>atm</amenity>
+        <operator>上海浦东发展银行</operator>
+        <tags>"operator:en"=&gt;"Shanghai Pudong Development Bank"</tags>
+        <way>010100002031BF0D0052B81E0559CA6941713D0A97D1F24B41</way>
+      </Record320>
+      <Record321>
+        <point>POINT(13521614.81 3663281.29)</point>
+        <osm_id>1172174591</osm_id>
+        <amenity>cafe</amenity>
+        <name>85°度</name>
+        <tags>"name:en"=&gt;"85°C", "opening_hours"=&gt;"24/7"</tags>
+        <way>010100002031BF0D001F85EBD959CA694152B81EA5D8F24B41</way>
+      </Record321>
+      <Record322>
+        <point>POINT(13522021.95 3663344.33)</point>
+        <osm_id>1172174594</osm_id>
+        <name>人民广场地铁站出口20</name>
+        <railway>subway_entrance</railway>
+        <ref>20</ref>
+        <way>010100002031BF0D00666666BE8CCA6941A4703D2AF8F24B41</way>
+      </Record322>
+      <Record323>
+        <point>POINT(13522064.01 3663269.65)</point>
+        <osm_id>1172174596</osm_id>
+        <bicycle>yes</bicycle>
+        <name>电梯</name>
+        <railway>subway_entrance</railway>
+        <tags>"name:en"=&gt;"elevator", "wheelchair"=&gt;"yes"</tags>
+        <way>010100002031BF0D0085EB510092CA6941333333D3D2F24B41</way>
+      </Record323>
+      <Record324>
+        <point>POINT(13521613.22 3663175.81)</point>
+        <osm_id>1172174599</osm_id>
+        <name>人民广场地铁站出口11</name>
+        <railway>subway_entrance</railway>
+        <ref>11</ref>
+        <tags>"name:en"=&gt;"People Square exit 11"</tags>
+        <way>010100002031BF0D00713D0AA759CA69417B14AEE7A3F24B41</way>
+      </Record324>
+      <Record325>
+        <point>POINT(13522581.91 3662755.91)</point>
+        <osm_id>1251210478</osm_id>
+        <name>老陕客栈</name>
+        <tourism>hotel</tourism>
+        <tags>"email"=&gt;"the.phoenix.shanghai@gmail.com", "phone"=&gt;"+86 021 63288680", "smoking"=&gt;"dedicated", "website"=&gt;"www.thephoenixshanghai.com", "wheelchair"=&gt;"no", "internet_access"=&gt;"wlan", "internet_access:fee"=&gt;"no"</tags>
+        <way>010100002031BF0D0052B81EBDD2CA694148E17AF4D1F14B41</way>
+      </Record325>
+      <Record326>
+        <point>POINT(13525656.03 3663519)</point>
+        <osm_id>1251241438</osm_id>
+        <man_made>tower</man_made>
+        <type>observation</type>
+        <tags>"height"=&gt;"492"</tags>
+        <way>010100002031BF0D008FC2F50053CC6941000000804FF34B41</way>
+      </Record326>
+      <Record327>
+        <point>POINT(13522560.28 3660579.53)</point>
+        <osm_id>1317210444</osm_id>
+        <amenity>restaurant</amenity>
+        <tags>"cuisine"=&gt;"american", "name:en"=&gt;"Munchies"</tags>
+        <way>010100002031BF0D008FC2F508D0CA69413D0AD7C391ED4B41</way>
+      </Record327>
+      <Record328>
+        <point>POINT(13526591.1 3661976.21)</point>
+        <osm_id>1317231483</osm_id>
+        <amenity>toilets</amenity>
+        <way>010100002031BF0D00333333E3C7CC6941AE47E11A4CF04B41</way>
+      </Record328>
+      <Record329>
+        <point>POINT(13526633.5 3662912.87)</point>
+        <osm_id>1317234409</osm_id>
+        <tourism>hotel</tourism>
+        <tags>"name:en"=&gt;"Mariott"</tags>
+        <way>010100002031BF0D0000000030CDCC6941F6285C6F20F24B41</way>
+      </Record329>
+      <Record330>
+        <point>POINT(13521312.89 3661492.16)</point>
+        <osm_id>1460663878</osm_id>
+        <amenity>cafe</amenity>
+        <tags>"name:en"=&gt;"Sculpting in Time Cafe"</tags>
+        <way>010100002031BF0D0048E17A1C34CA694148E17A145AEF4B41</way>
+      </Record330>
+      <Record331>
+        <point>POINT(13522009.16 3661679.37)</point>
+        <osm_id>1462576337</osm_id>
+        <amenity>fountain</amenity>
+        <way>010100002031BF0D0052B81E258BCA6941F6285CAFB7EF4B41</way>
+      </Record331>
+      <Record332>
+        <point>POINT(13522025.88 3661300.77)</point>
+        <osm_id>1462584424</osm_id>
+        <amenity>cafe</amenity>
+        <tags>"name:en"=&gt;"Lavazza"</tags>
+        <way>010100002031BF0D00C3F5283C8DCA6941295C8F62FAEE4B41</way>
+      </Record332>
+      <Record333>
+        <point>POINT(13521976.01 3661381.1)</point>
+        <osm_id>1462584468</osm_id>
+        <shop>convenience</shop>
+        <way>010100002031BF0D0085EB510087CA6941CDCCCC8C22EF4B41</way>
+      </Record333>
+      <Record334>
+        <point>POINT(13523918.34 3662485.57)</point>
+        <osm_id>1469023921</osm_id>
+        <amenity>cafe</amenity>
+        <name>湖心亭</name>
+        <tourism>attraction</tourism>
+        <tags>"name:en"=&gt;"Hu Xin Ting (Mid-Lake Pavilion Teahouse)"</tags>
+        <way>010100002031BF0D00AE47E1CA79CB69418FC2F5C84AF14B41</way>
+      </Record334>
+      <Record335>
+        <point>POINT(13525391.64 3662685.14)</point>
+        <osm_id>1473995280</osm_id>
+        <amenity>restaurant</amenity>
+        <way>010100002031BF0D0048E17AF431CC69411F85EB91AEF14B41</way>
+      </Record335>
+      <Record336>
+        <point>POINT(13522396.41 3662342.73)</point>
+        <osm_id>1489291111</osm_id>
+        <amenity>cafe</amenity>
+        <tags>"name:en"=&gt;"Gloria Jeans"</tags>
+        <way>010100002031BF0D0052B81E8DBBCA6941D7A3705D03F14B41</way>
+      </Record336>
+      <Record337>
+        <point>POINT(13526162.6 3662741.17)</point>
+        <osm_id>1489367650</osm_id>
+        <highway>bus_stop</highway>
+        <way>010100002031BF0D003333335392CC69415C8FC295CAF14B41</way>
+      </Record337>
+      <Record338>
+        <point>POINT(13526239.03 3662813.43)</point>
+        <osm_id>1489367765</osm_id>
+        <amenity>fuel</amenity>
+        <way>010100002031BF0D008FC2F5E09BCC6941713D0AB7EEF14B41</way>
+      </Record338>
+      <Record339>
+        <point>POINT(13526800.37 3662846.87)</point>
+        <osm_id>1489367817</osm_id>
+        <highway>bus_stop</highway>
+        <way>010100002031BF0D003D0AD70BE2CC6941F6285C6FFFF14B41</way>
+      </Record339>
+      <Record340>
+        <point>POINT(13525319.4 3663032.59)</point>
+        <osm_id>1489390311</osm_id>
+        <highway>bus_stop</highway>
+        <way>010100002031BF0D00CDCCCCEC28CC6941B81E854B5CF24B41</way>
+      </Record340>
+      <Record341>
+        <point>POINT(13525317.95 3663181.67)</point>
+        <osm_id>1489390367</osm_id>
+        <highway>bus_stop</highway>
+        <way>010100002031BF0D00666666BE28CC69415C8FC2D5A6F24B41</way>
+      </Record341>
+      <Record342>
+        <point>POINT(13524749.7 3663538.98)</point>
+        <osm_id>1489398730</osm_id>
+        <tourism>museum</tourism>
+        <tags>"name:en"=&gt;"Aurora Art Museum"</tags>
+        <way>010100002031BF0D00666666B6E1CB6941D7A3707D59F34B41</way>
+      </Record342>
+      <Record343>
+        <point>POINT(13525921.94 3663285.78)</point>
+        <osm_id>1489401311</osm_id>
+        <highway>bus_stop</highway>
+        <way>010100002031BF0D00E17A143E74CC69413D0AD7E3DAF24B41</way>
+      </Record343>
+      <Record344>
+        <point>POINT(13525755.32 3663307.88)</point>
+        <osm_id>1489401322</osm_id>
+        <highway>bus_stop</highway>
+        <way>010100002031BF0D00A4703D6A5FCC69410AD7A3F0E5F24B41</way>
+      </Record344>
+      <Record345>
+        <point>POINT(13525064.41 3663129.63)</point>
+        <osm_id>1489404186</osm_id>
+        <highway>bus_stop</highway>
+        <way>010100002031BF0D0052B81E0D09CC69410AD7A3D08CF24B41</way>
+      </Record345>
+      <Record346>
+        <point>POINT(13525543.34 3663596.32)</point>
+        <osm_id>1489404187</osm_id>
+        <highway>bus_stop</highway>
+        <way>010100002031BF0D00AE47E1EA44CC69418FC2F52876F34B41</way>
+      </Record346>
+      <Record347>
+        <point>POINT(13525349.25 3662947.2)</point>
+        <osm_id>1489404188</osm_id>
+        <amenity>bus_station</amenity>
+        <way>010100002031BF0D00000000A82CCC69419A99999931F24B41</way>
+      </Record347>
+      <Record348>
+        <point>POINT(13525480.03 3663282.5)</point>
+        <osm_id>1489404194</osm_id>
+        <highway>bus_stop</highway>
+        <way>010100002031BF0D008FC2F5003DCC694100000040D9F24B41</way>
+      </Record348>
+      <Record349>
+        <point>POINT(13524952.14 3663488.53)</point>
+        <osm_id>1489404198</osm_id>
+        <highway>bus_stop</highway>
+        <way>010100002031BF0D0048E17A04FBCB69413D0AD74340F34B41</way>
+      </Record349>
+      <Record350>
+        <point>POINT(13525044.71 3663400.74)</point>
+        <osm_id>1489404202</osm_id>
+        <highway>bus_stop</highway>
+        <way>010100002031BF0D00EC51B89606CC6941EC51B85E14F34B41</way>
+      </Record350>
+      <Record351>
+        <point>POINT(13524955.43 3663545.56)</point>
+        <osm_id>1489404203</osm_id>
+        <highway>bus_stop</highway>
+        <way>010100002031BF0D005C8FC26DFBCB69417B14AEC75CF34B41</way>
+      </Record351>
+      <Record352>
+        <point>POINT(13525004.69 3663027.81)</point>
+        <osm_id>1489404204</osm_id>
+        <amenity>restaurant</amenity>
+        <tags>"name:en"=&gt;"Hailong Haixian Fang"</tags>
+        <way>010100002031BF0D00E17A149601CC69417B14AEE759F24B41</way>
+      </Record352>
+      <Record353>
+        <point>POINT(13524893.32 3663346.7)</point>
+        <osm_id>1489404206</osm_id>
+        <highway>bus_stop</highway>
+        <way>010100002031BF0D00A4703DAAF3CB69419A999959F9F24B41</way>
+      </Record353>
+      <Record354>
+        <point>POINT(13525211.61 3663509.43)</point>
+        <osm_id>1489404208</osm_id>
+        <highway>bus_stop</highway>
+        <way>010100002031BF0D00B81E85731BCC6941713D0AB74AF34B41</way>
+      </Record354>
+      <Record355>
+        <point>POINT(13526327.22 3663339.19)</point>
+        <osm_id>1490105515</osm_id>
+        <highway>bus_stop</highway>
+        <way>010100002031BF0D00713D0AE7A6CC694185EB5198F5F24B41</way>
+      </Record355>
+      <Record356>
+        <point>POINT(13526432.92 3663068.37)</point>
+        <osm_id>1490108041</osm_id>
+        <amenity>fast_food</amenity>
+        <name>肯德基</name>
+        <tags>"name:en"=&gt;"KFC"</tags>
+        <way>010100002031BF0D00D7A3701DB4CC6941F6285C2F6EF24B41</way>
+      </Record356>
+      <Record357>
+        <point>POINT(13524305.82 3662307.02)</point>
+        <osm_id>1548518743</osm_id>
+        <amenity>restaurant</amenity>
+        <way>010100002031BF0D00A4703D3AAACB6941295C8F82F1F04B41</way>
+      </Record357>
+      <Record358>
+        <point>POINT(13524005.75 3662285.52)</point>
+        <osm_id>1548518803</osm_id>
+        <amenity>fountain</amenity>
+        <way>010100002031BF0D00000000B884CB6941295C8FC2E6F04B41</way>
+      </Record358>
+      <Record359>
+        <point>POINT(13522354.67 3663366.54)</point>
+        <osm_id>1555170552</osm_id>
+        <amenity>restaurant</amenity>
+        <tags>"cuisine"=&gt;"asian"</tags>
+        <way>010100002031BF0D00D7A37055B6CA694152B81E4503F34B41</way>
+      </Record359>
+      <Record360>
+        <point>POINT(13521986.33 3661294.3)</point>
+        <osm_id>1562116462</osm_id>
+        <amenity>restaurant</amenity>
+        <tags>"name:en"=&gt;"Urban Soup Kitchen"</tags>
+        <way>010100002031BF0D00295C8F4A88CA694166666626F7EE4B41</way>
+      </Record360>
+      <Record361>
+        <point>POINT(13522239.9 3662182.48)</point>
+        <osm_id>1562116864</osm_id>
+        <amenity>restaurant</amenity>
+        <tags>"name:en"=&gt;"Fomo"</tags>
+        <way>010100002031BF0D00CDCCCCFCA7CA6941D7A3703DB3F04B41</way>
+      </Record361>
+      <Record362>
+        <point>POINT(13522253.66 3662218.3)</point>
+        <osm_id>1562116872</osm_id>
+        <amenity>restaurant</amenity>
+        <tags>"name:en"=&gt;"Pankoo"</tags>
+        <way>010100002031BF0D0052B81EB5A9CA694166666626C5F04B41</way>
+      </Record362>
+      <Record363>
+        <point>POINT(13525486.91 3661626.3)</point>
+        <osm_id>1562119176</osm_id>
+        <amenity>toilets</amenity>
+        <way>010100002031BF0D0052B81EDD3DCC6941666666269DEF4B41</way>
+      </Record363>
+      <Record364>
+        <point>POINT(13521486.9 3661538.6)</point>
+        <osm_id>1563139072</osm_id>
+        <tourism>hotel</tourism>
+        <tags>"name:en"=&gt;"Pudi Boutique Hotel"</tags>
+        <way>010100002031BF0D00CDCCCCDC49CA6941CDCCCC4C71EF4B41</way>
+      </Record364>
+      <Record365>
+        <point>POINT(13524780.6 3662181.11)</point>
+        <osm_id>1563146219</osm_id>
+        <tourism>hotel</tourism>
+        <tags>"name:en"=&gt;"Riverview Hotel"</tags>
+        <way>010100002031BF0D0033333393E5CB6941E17A148EB2F04B41</way>
+      </Record365>
+      <Record366>
+        <point>POINT(13522528.7 3663490.2)</point>
+        <osm_id>1563161013</osm_id>
+        <tourism>hotel</tourism>
+        <tags>"name:en"=&gt;"Howard Johnsons Plaza"</tags>
+        <way>010100002031BF0D0066666616CCCA69419A99991941F34B41</way>
+      </Record366>
+      <Record367>
+        <point>POINT(13522021.35 3661623.13)</point>
+        <osm_id>1570853962</osm_id>
+        <amenity>toilets</amenity>
+        <way>010100002031BF0D00333333AB8CCA69410AD7A3909BEF4B41</way>
+      </Record367>
+      <Record368>
+        <point>POINT(13522409.09 3661276.11)</point>
+        <osm_id>1572268640</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00AE47E122BDCA6941E17A140EEEEE4B41</way>
+      </Record368>
+      <Record369>
+        <point>POINT(13522064.67 3662069.38)</point>
+        <osm_id>1572270954</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00D7A3701592CA69410AD7A3B07AF04B41</way>
+      </Record369>
+      <Record370>
+        <point>POINT(13523473.85 3661302.07)</point>
+        <osm_id>1663985729</osm_id>
+        <amenity>place_of_worship</amenity>
+        <name>上海文庙</name>
+        <tags>"name:zh"=&gt;"上海文庙"</tags>
+        <way>010100002031BF0D003333333B42CB69418FC2F508FBEE4B41</way>
+      </Record370>
+      <Record371>
+        <point>POINT(13521202.37 3663066.52)</point>
+        <osm_id>1667022600</osm_id>
+        <housenumber>700</housenumber>
+        <amenity>restaurant</amenity>
+        <name>青城食坊</name>
+        <tags>"addr:street"=&gt;"牡丹江路"</tags>
+        <way>010100002031BF0D003D0AD74B26CA6941295C8F426DF24B41</way>
+      </Record371>
+      <Record372>
+        <point>POINT(13523920.36 3663338.9)</point>
+        <osm_id>1722215053</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00B81E850B7ACB694133333373F5F24B41</way>
+      </Record372>
+      <Record373>
+        <point>POINT(13523847.09 3663496.32)</point>
+        <osm_id>1722215093</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00AE47E1E270CB69418FC2F52844F34B41</way>
+      </Record373>
+      <Record374>
+        <point>POINT(13522972.63 3661522.63)</point>
+        <osm_id>1735471913</osm_id>
+        <name>Tea Plaza</name>
+        <shop>supermarket</shop>
+        <way>010100002031BF0D00C3F5289403CB69410AD7A35069EF4B41</way>
+      </Record374>
+      <Record375>
+        <point>POINT(13525714.05 3663553.5)</point>
+        <osm_id>1771392609</osm_id>
+        <name>Shanghai World Financial Center</name>
+        <shop>department_store</shop>
+        <way>010100002031BF0D009A9999415ACC6941000000C060F34B41</way>
+      </Record375>
+      <Record376>
+        <point>POINT(13523989.47 3662473.71)</point>
+        <osm_id>1773229279</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00713D0AAF82CB6941AE47E1DA44F14B41</way>
+      </Record376>
+      <Record377>
+        <point>POINT(13524173.22 3662667.31)</point>
+        <osm_id>1773438955</osm_id>
+        <amenity>cafe</amenity>
+        <way>010100002031BF0D00713D0AA799CB69417B14AEA7A5F14B41</way>
+      </Record377>
+      <Record378>
+        <point>POINT(13524253.24 3663065.02)</point>
+        <osm_id>1773438956</osm_id>
+        <amenity>fire_station</amenity>
+        <way>010100002031BF0D007B14AEA7A3CB6941295C8F826CF24B41</way>
+      </Record378>
+      <Record379>
+        <point>POINT(13524195.91 3663124.74)</point>
+        <osm_id>1773438957</osm_id>
+        <amenity>police</amenity>
+        <way>010100002031BF0D0052B81E7D9CCB6941EC51B85E8AF24B41</way>
+      </Record379>
+      <Record380>
+        <point>POINT(13524259.21 3662713.89)</point>
+        <osm_id>1773438958</osm_id>
+        <amenity>cafe</amenity>
+        <way>010100002031BF0D00EC51B866A4CB69411F85EBF1BCF14B41</way>
+      </Record380>
+      <Record381>
+        <point>POINT(13522721.87 3662125.93)</point>
+        <osm_id>1774541386</osm_id>
+        <amenity>fast_food</amenity>
+        <name>YoBa</name>
+        <way>010100002031BF0D003D0AD73BE4CA6941713D0AF796F04B41</way>
+      </Record381>
+      <Record382>
+        <point>POINT(13522686.03 3662299.71)</point>
+        <osm_id>1774541400</osm_id>
+        <name>Shinesun Digital Plaza</name>
+        <shop>mall</shop>
+        <tags>"name:en"=&gt;"Shinesun Digital Plaza"</tags>
+        <way>010100002031BF0D008FC2F5C0DFCA6941AE47E1DAEDF04B41</way>
+      </Record382>
+      <Record383>
+        <point>POINT(13522607.21 3662512.5)</point>
+        <osm_id>1774541411</osm_id>
+        <name>大世界</name>
+        <railway>subway_entrance</railway>
+        <ref>2</ref>
+        <tags>"name:en"=&gt;"Dashijie"</tags>
+        <way>010100002031BF0D00EC51B8E6D5CA69410000004058F14B41</way>
+      </Record383>
+      <Record384>
+        <point>POINT(13522606.07 3662270)</point>
+        <osm_id>1774541414</osm_id>
+        <name>Cybermart</name>
+        <shop>mall</shop>
+        <way>010100002031BF0D00A4703DC2D5CA694100000000DFF04B41</way>
+      </Record384>
+      <Record385>
+        <point>POINT(13526657.39 3663397.55)</point>
+        <osm_id>1777827018</osm_id>
+        <amenity>hospital</amenity>
+        <way>010100002031BF0D0048E17A2CD0CC6941666666C612F34B41</way>
+      </Record385>
+      <Record386>
+        <point>POINT(13525750.08 3663599.9)</point>
+        <osm_id>1784683427</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00295C8FC25ECC6941333333F377F34B41</way>
+      </Record386>
+      <Record387>
+        <point>POINT(13525796.67 3663583.77)</point>
+        <osm_id>1784683442</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00D7A3709564CC6941295C8FE26FF34B41</way>
+      </Record387>
+      <Record388>
+        <point>POINT(13525762.63 3663596.34)</point>
+        <osm_id>1784683445</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00C3F5285460CC6941B81E852B76F34B41</way>
+      </Record388>
+      <Record389>
+        <point>POINT(13525784.72 3663588.55)</point>
+        <osm_id>1784683451</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00713D0A1763CC69416666664672F34B41</way>
+      </Record389>
+      <Record390>
+        <point>POINT(13525729.79 3663605.9)</point>
+        <osm_id>1784683452</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D0014AE47395CCC6941333333F37AF34B41</way>
+      </Record390>
+      <Record391>
+        <point>POINT(13525695.75 3663617.21)</point>
+        <osm_id>1784683455</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00000000F857CC6941AE47E19A80F34B41</way>
+      </Record391>
+      <Record392>
+        <point>POINT(13525707.69 3663614.23)</point>
+        <osm_id>1784683457</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00E17A147659CC6941D7A3701D7FF34B41</way>
+      </Record392>
+      <Record393>
+        <point>POINT(13525773.79 3663592.26)</point>
+        <osm_id>1784683463</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D0014AE47B961CC694114AE472174F34B41</way>
+      </Record393>
+      <Record394>
+        <point>POINT(13524269.44 3661903.18)</point>
+        <osm_id>1812133572</osm_id>
+        <amenity>hospital</amenity>
+        <name>解放军第358医院</name>
+        <way>010100002031BF0D00E17A14AEA5CB6941713D0A9727F04B41</way>
+      </Record394>
+      <Record395>
+        <point>POINT(13524238.15 3661900.49)</point>
+        <osm_id>1812138566</osm_id>
+        <name>草包商场</name>
+        <shop>supermarket</shop>
+        <way>010100002031BF0D00CDCCCCC4A1CB6941EC51B83E26F04B41</way>
+      </Record395>
+      <Record396>
+        <point>POINT(13524119.73 3663087.96)</point>
+        <osm_id>1883254800</osm_id>
+        <highway>bus_stop</highway>
+        <name>中山东二路金陵东路</name>
+        <public_transport>stop_position</public_transport>
+        <tags>"name:en"=&gt;"East Zhongshan No. 2 Road East Jinling Road"</tags>
+        <way>010100002031BF0D00F6285CF792CB6941AE47E1FA77F24B41</way>
+      </Record396>
+      <Record397>
+        <point>POINT(13523804.25 3663491.27)</point>
+        <osm_id>1887575215</osm_id>
+        <amenity>restaurant</amenity>
+        <name>米氏西餐厅</name>
+        <tags>"floor"=&gt;"7", "name:en"=&gt;"M on the Bund"</tags>
+        <way>010100002031BF0D00000000886BCB6941295C8FA241F34B41</way>
+      </Record397>
+      <Record398>
+        <point>POINT(13523782.49 3663561.65)</point>
+        <osm_id>1887575216</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D007B14AECF68CB6941333333D364F34B41</way>
+      </Record398>
+      <Record399>
+        <point>POINT(13523797.68 3663501.41)</point>
+        <osm_id>1887575218</osm_id>
+        <amenity>bar</amenity>
+        <name>魅力上海</name>
+        <tags>"floor"=&gt;"6", "name:en"=&gt;"Glamour Bar"</tags>
+        <way>010100002031BF0D005C8FC2B56ACB694148E17AB446F34B41</way>
+      </Record399>
+      <Record400>
+        <point>POINT(13523992.35 3663329.4)</point>
+        <osm_id>1887593819</osm_id>
+        <amenity>parking</amenity>
+        <name>外滩</name>
+        <tags>"spaces"=&gt;"400", "name:en"=&gt;"The Bund"</tags>
+        <way>010100002031BF0D003333330B83CB6941333333B3F0F24B41</way>
+      </Record400>
+      <Record401>
+        <point>POINT(13523825.02 3663485.07)</point>
+        <osm_id>1887596136</osm_id>
+        <highway>crossing</highway>
+        <tags>"crossing"=&gt;"traffic_signals"</tags>
+        <way>010100002031BF0D000AD7A3206ECB69418FC2F5883EF34B41</way>
+      </Record401>
+      <Record402>
+        <point>POINT(13523930.97 3663318.58)</point>
+        <osm_id>1888322988</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00713D0A5F7BCB6941A4703D4AEBF24B41</way>
+      </Record402>
+      <Record403>
+        <point>POINT(13523909.57 3663334.59)</point>
+        <osm_id>1888323015</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00A4703DB278CB6941B81E854BF3F24B41</way>
+      </Record403>
+      <Record404>
+        <point>POINT(13523523.62 3663133.38)</point>
+        <osm_id>1888338492</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D003D0AD77348CB69410AD7A3B08EF24B41</way>
+      </Record404>
+      <Record405>
+        <point>POINT(13523519.66 3663143.68)</point>
+        <osm_id>1888338501</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D0052B81EF547CB6941713D0AD793F24B41</way>
+      </Record405>
+      <Record406>
+        <point>POINT(13524374.15 3662893.58)</point>
+        <osm_id>1888393403</osm_id>
+        <amenity>parking</amenity>
+        <name>十六铺</name>
+        <tags>"name:en"=&gt;"Shiliupu"</tags>
+        <way>010100002031BF0D00CDCCCCC4B2CB6941A4703DCA16F24B41</way>
+      </Record406>
+      <Record407>
+        <point>POINT(13524247.27 3662972)</point>
+        <osm_id>1888422978</osm_id>
+        <highway>bus_stop</highway>
+        <public_transport>stop_position</public_transport>
+        <way>010100002031BF0D000AD7A3E8A2CB6941000000003EF24B41</way>
+      </Record407>
+      <Record408>
+        <point>POINT(13522960.52 3663068.46)</point>
+        <osm_id>1889249243</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D000AD7A31002CB6941AE47E13A6EF24B41</way>
+      </Record408>
+      <Record409>
+        <point>POINT(13522962.57 3663015.99)</point>
+        <osm_id>1889249255</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00A4703D5202CB6941EC51B8FE53F24B41</way>
+      </Record409>
+      <Record410>
+        <point>POINT(13522922.69 3663083.33)</point>
+        <osm_id>1889249268</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00E17A1456FDCA6941A4703DAA75F24B41</way>
+      </Record410>
+      <Record411>
+        <point>POINT(13523340.13 3663023.41)</point>
+        <osm_id>1889249276</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00C3F5288431CB694148E17AB457F24B41</way>
+      </Record411>
+      <Record412>
+        <point>POINT(13522967.55 3663057.69)</point>
+        <osm_id>1889249355</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D009A9999F102CB694185EB51D868F24B41</way>
+      </Record412>
+      <Record413>
+        <point>POINT(13523354.52 3663031.76)</point>
+        <osm_id>1889255121</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D000AD7A35033CB694114AE47E15BF24B41</way>
+      </Record413>
+      <Record414>
+        <point>POINT(13523347.03 3663050.99)</point>
+        <osm_id>1889255135</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D008FC2F56032CB6941EC51B87E65F24B41</way>
+      </Record414>
+      <Record415>
+        <point>POINT(13523336.16 3663033.96)</point>
+        <osm_id>1889255141</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D0052B81E0531CB6941AE47E1FA5CF24B41</way>
+      </Record415>
+      <Record416>
+        <point>POINT(13522420.94 3662723.71)</point>
+        <osm_id>1890502796</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00E17A149EBECA6941AE47E1DAC1F14B41</way>
+      </Record416>
+      <Record417>
+        <point>POINT(13522410.16 3662710.81)</point>
+        <osm_id>1890502815</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D0052B81E45BDCA69417B14AE67BBF14B41</way>
+      </Record417>
+      <Record418>
+        <point>POINT(13522190.2 3663118.19)</point>
+        <osm_id>1890502861</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00666666C6A1CA694185EB511887F24B41</way>
+      </Record418>
+      <Record419>
+        <point>POINT(13522408.21 3662749.11)</point>
+        <osm_id>1890502904</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00EC51B806BDCA6941E17A148ECEF14B41</way>
+      </Record419>
+      <Record420>
+        <point>POINT(13522175.92 3663111.65)</point>
+        <osm_id>1890502938</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00D7A370FD9FCA6941333333D383F24B41</way>
+      </Record420>
+      <Record421>
+        <point>POINT(13521845.81 3662369.67)</point>
+        <osm_id>1890531922</osm_id>
+        <highway>motorway_junction</highway>
+        <name>西藏南路</name>
+        <tags>"name:en"=&gt;"Xizang Road (South)"</tags>
+        <way>010100002031BF0D001F85EBB976CA69415C8FC2D510F14B41</way>
+      </Record421>
+      <Record422>
+        <point>POINT(13521841.44 3662727.6)</point>
+        <osm_id>1890811877</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00E17A142E76CA6941CDCCCCCCC3F14B41</way>
+      </Record422>
+      <Record423>
+        <point>POINT(13521665.21 3662597.38)</point>
+        <osm_id>1890811942</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D00EC51B82660CA69410AD7A3B082F14B41</way>
+      </Record423>
+      <Record424>
+        <point>POINT(13521693.3 3662606.02)</point>
+        <osm_id>1890811951</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D009A9999A963CA6941295C8F0287F14B41</way>
+      </Record424>
+      <Record425>
+        <point>POINT(13521815.68 3662589.18)</point>
+        <osm_id>1890811998</osm_id>
+        <amenity>parking</amenity>
+        <name>人民广场</name>
+        <tags>"name:en"=&gt;"People's Square"</tags>
+        <way>010100002031BF0D005C8FC2F572CA6941713D0A977EF14B41</way>
+      </Record425>
+      <Record426>
+        <point>POINT(13521869.21 3662749.72)</point>
+        <osm_id>1890812070</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00EC51B8A679CA6941C3F528DCCEF14B41</way>
+      </Record426>
+      <Record427>
+        <point>POINT(13522199.33 3662730.44)</point>
+        <osm_id>1890818629</osm_id>
+        <amenity>parking</amenity>
+        <name>人民广场</name>
+        <tags>"name:en"=&gt;"People's Square"</tags>
+        <way>010100002031BF0D00295C8FEAA2CA694185EB5138C5F14B41</way>
+      </Record427>
+      <Record428>
+        <point>POINT(13522049.9 3662552.95)</point>
+        <osm_id>1890842755</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00CDCCCC3C90CA69419A9999796CF14B41</way>
+      </Record428>
+      <Record429>
+        <point>POINT(13522030.21 3662557.96)</point>
+        <osm_id>1890842762</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00EC51B8C68DCA6941AE47E1FA6EF14B41</way>
+      </Record429>
+      <Record430>
+        <point>POINT(13521741 3662605.4)</point>
+        <osm_id>1890850187</osm_id>
+        <barrier>toll_booth</barrier>
+        <way>010100002031BF0D00000000A069CA6941333333B386F14B41</way>
+      </Record430>
+      <Record431>
+        <point>POINT(13522190.15 3662756.58)</point>
+        <osm_id>1890850215</osm_id>
+        <amenity>police</amenity>
+        <name>人民广场</name>
+        <tags>"name:en"=&gt;"People's Square"</tags>
+        <way>010100002031BF0D00CDCCCCC4A1CA6941A4703D4AD2F14B41</way>
+      </Record431>
+      <Record432>
+        <point>POINT(13522229.51 3662773.62)</point>
+        <osm_id>1890850223</osm_id>
+        <barrier>toll_booth</barrier>
+        <way>010100002031BF0D0085EB51B0A6CA6941F6285CCFDAF14B41</way>
+      </Record432>
+      <Record433>
+        <point>POINT(13522220.93 3662832.69)</point>
+        <osm_id>1890850240</osm_id>
+        <amenity>toilets</amenity>
+        <way>010100002031BF0D005C8FC29DA5CA694185EB5158F8F14B41</way>
+      </Record433>
+      <Record434>
+        <point>POINT(13522159.34 3663001.54)</point>
+        <osm_id>1890877306</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00AE47E1EA9DCA694152B81EC54CF24B41</way>
+      </Record434>
+      <Record435>
+        <point>POINT(13522130.38 3662958.55)</point>
+        <osm_id>1890877350</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00C3F5284C9ACA69416666664637F24B41</way>
+      </Record435>
+      <Record436>
+        <point>POINT(13522118.44 3663050.65)</point>
+        <osm_id>1890935390</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00E17A14CE98CA69413333335365F24B41</way>
+      </Record436>
+      <Record437>
+        <point>POINT(13522135.16 3663099.17)</point>
+        <osm_id>1890935402</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D0052B81EE59ACA69415C8FC2957DF24B41</way>
+      </Record437>
+      <Record438>
+        <point>POINT(13522115.47 3663084.02)</point>
+        <osm_id>1890935410</osm_id>
+        <name>人民广场地铁站出口2</name>
+        <railway>subway_entrance</railway>
+        <ref>2</ref>
+        <tags>"name:en"=&gt;"People's Park exit 2"</tags>
+        <way>010100002031BF0D00713D0A6F98CA6941295C8F0276F24B41</way>
+      </Record438>
+      <Record439>
+        <point>POINT(13522231.97 3662676.77)</point>
+        <osm_id>1891590920</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00713D0AFFA6CA6941295C8F62AAF14B41</way>
+      </Record439>
+      <Record440>
+        <point>POINT(13522397.29 3662742.48)</point>
+        <osm_id>1891590934</osm_id>
+        <highway>traffic_signals</highway>
+        <way>010100002031BF0D0014AE47A9BBCA6941D7A3703DCBF14B41</way>
+      </Record440>
+      <Record441>
+        <point>POINT(13522278.65 3662905.81)</point>
+        <osm_id>1891590954</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00CDCCCCD4ACCA69417B14AEE71CF24B41</way>
+      </Record441>
+      <Record442>
+        <point>POINT(13521677.37 3662703.78)</point>
+        <osm_id>1928795219</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D003D0AD7AB61CA69413D0AD7E3B7F14B41</way>
+      </Record442>
+      <Record443>
+        <point>POINT(13521687.21 3662711.33)</point>
+        <osm_id>1928795220</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00EC51B8E662CA6941A4703DAABBF14B41</way>
+      </Record443>
+      <Record444>
+        <point>POINT(13521697.06 3662718.87)</point>
+        <osm_id>1928795221</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D001F85EB2164CA6941F6285C6FBFF14B41</way>
+      </Record444>
+      <Record445>
+        <point>POINT(13521706.9 3662726.42)</point>
+        <osm_id>1928795222</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00CDCCCC5C65CA69415C8FC235C3F14B41</way>
+      </Record445>
+      <Record446>
+        <point>POINT(13521716.74 3662733.96)</point>
+        <osm_id>1928795224</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D007B14AE9766CA6941AE47E1FAC6F14B41</way>
+      </Record446>
+      <Record447>
+        <point>POINT(13521726.58 3662741.51)</point>
+        <osm_id>1928795225</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00295C8FD267CA694114AE47C1CAF14B41</way>
+      </Record447>
+      <Record448>
+        <point>POINT(13521734.49 3662746.92)</point>
+        <osm_id>1928795226</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D007B14AECF68CA69415C8FC275CDF14B41</way>
+      </Record448>
+      <Record449>
+        <point>POINT(13521741.92 3662752.9)</point>
+        <osm_id>1928795227</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00D7A370BD69CA694133333373D0F14B41</way>
+      </Record449>
+      <Record450>
+        <point>POINT(13521748.16 3662757.79)</point>
+        <osm_id>1928795230</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D0052B81E856ACA694152B81EE5D2F14B41</way>
+      </Record450>
+      <Record451>
+        <point>POINT(13521756.12 3662764.13)</point>
+        <osm_id>1928795231</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D003D0AD7836BCA69410AD7A310D6F14B41</way>
+      </Record451>
+      <Record452>
+        <point>POINT(13521765.96 3662771.68)</point>
+        <osm_id>1928795232</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00EC51B8BE6CCA6941713D0AD7D9F14B41</way>
+      </Record452>
+      <Record453>
+        <point>POINT(13521775.8 3662779.22)</point>
+        <osm_id>1928795233</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D009A9999F96DCA6941C3F5289CDDF14B41</way>
+      </Record453>
+      <Record454>
+        <point>POINT(13521785.64 3662786.76)</point>
+        <osm_id>1928795234</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D0048E17A346FCA694114AE4761E1F14B41</way>
+      </Record454>
+      <Record455>
+        <point>POINT(13521795.49 3662794.31)</point>
+        <osm_id>1928795235</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D007B14AE6F70CA69417B14AE27E5F14B41</way>
+      </Record455>
+      <Record456>
+        <point>POINT(13521855.24 3662799.53)</point>
+        <osm_id>1928795237</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D007B14AEE777CA69413D0AD7C3E7F14B41</way>
+      </Record456>
+      <Record457>
+        <point>POINT(13521865.05 3662807.07)</point>
+        <osm_id>1928795238</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D009A99992179CA69418FC2F588EBF14B41</way>
+      </Record457>
+      <Record458>
+        <point>POINT(13521811.92 3662807.11)</point>
+        <osm_id>1928795239</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D00D7A3707D72CA6941E17A148EEBF14B41</way>
+      </Record458>
+      <Record459>
+        <point>POINT(13521874.87 3662814.59)</point>
+        <osm_id>1928795240</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D003D0AD75B7ACA6941B81E854BEFF14B41</way>
+      </Record459>
+      <Record460>
+        <point>POINT(13521821.76 3662814.66)</point>
+        <osm_id>1928795241</osm_id>
+        <natural>tree</natural>
+        <way>010100002031BF0D0085EB51B873CA694148E17A54EFF14B41</way>
+      </Record460>
+      <Record461>
+        <point>POINT(13521994.11 3663388.26)</point>
+        <osm_id>1928818273</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00B81E854389CA694114AE47210EF34B41</way>
+      </Record461>
+      <Record462>
+        <point>POINT(13522085.63 3663232.72)</point>
+        <osm_id>1990174510</osm_id>
+        <name>人民广场地铁站出口16</name>
+        <railway>subway_entrance</railway>
+        <ref>16</ref>
+        <tags>"name:en"=&gt;"People's Park exit 16"</tags>
+        <way>010100002031BF0D00C3F528B494CA6941C3F5285CC0F24B41</way>
+      </Record462>
+      <Record463>
+        <point>POINT(13522136.36 3663300.76)</point>
+        <osm_id>1990203580</osm_id>
+        <name>人民广场地铁站出口14</name>
+        <railway>subway_entrance</railway>
+        <ref>14</ref>
+        <tags>"name:en"=&gt;"People's Park exit 14"</tags>
+        <way>010100002031BF0D00B81E850B9BCA694114AE4761E2F24B41</way>
+      </Record463>
+      <Record464>
+        <point>POINT(13521990.13 3663274.12)</point>
+        <osm_id>1990203594</osm_id>
+        <name>人民广场地铁站出口17</name>
+        <railway>subway_entrance</railway>
+        <ref>17</ref>
+        <tags>"name:en"=&gt;"People's Park exit 17"</tags>
+        <way>010100002031BF0D00C3F528C488CA6941F6285C0FD5F24B41</way>
+      </Record464>
+      <Record465>
+        <point>POINT(13521906.02 3663299.21)</point>
+        <osm_id>1990203597</osm_id>
+        <name>人民广场地铁站出口18</name>
+        <railway>subway_entrance</railway>
+        <ref>18</ref>
+        <tags>"name:en"=&gt;"People's Park exit 18"</tags>
+        <way>010100002031BF0D000AD7A3407ECA6941AE47E19AE1F24B41</way>
+      </Record465>
+      <Record466>
+        <point>POINT(13521971.89 3663436.73)</point>
+        <osm_id>1990203599</osm_id>
+        <name>人民广场地铁站出口19</name>
+        <railway>subway_entrance</railway>
+        <ref>19</ref>
+        <tags>"name:en"=&gt;"People's Park exit 19"</tags>
+        <way>010100002031BF0D0048E17A7C86CA6941D7A3705D26F34B41</way>
+      </Record466>
+      <Record467>
+        <point>POINT(13521750.53 3663375.89)</point>
+        <osm_id>1990203600</osm_id>
+        <name>人民广场地铁站出口8</name>
+        <railway>subway_entrance</railway>
+        <ref>8</ref>
+        <tags>"name:en"=&gt;"People's Park exit 8"</tags>
+        <way>010100002031BF0D008FC2F5D06ACA69411F85EBF107F34B41</way>
+      </Record467>
+      <Record468>
+        <point>POINT(13525369.62 3663516.09)</point>
+        <osm_id>1993253276</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D003D0AD7332FCC6941B81E850B4EF34B41</way>
+      </Record468>
+      <Record469>
+        <point>POINT(13525745.01 3660946.17)</point>
+        <osm_id>2001675374</osm_id>
+        <amenity>ferry_terminal</amenity>
+        <way>010100002031BF0D0085EB51205ECC69415C8FC21549EE4B41</way>
+      </Record469>
+      <Record470>
+        <point>POINT(13525977.53 3661830.21)</point>
+        <osm_id>2001675464</osm_id>
+        <man_made>chimney</man_made>
+        <name>old chimney</name>
+        <way>010100002031BF0D008FC2F5307BCC6941AE47E11A03F04B41</way>
+      </Record470>
+      <Record471>
+        <point>POINT(13521832.6 3661963)</point>
+        <osm_id>2049780802</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D003333331375CA69410000008045F04B41</way>
+      </Record471>
+      <Record472>
+        <point>POINT(13521982.85 3662030.25)</point>
+        <osm_id>2049780804</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00333333DB87CA69410000002067F04B41</way>
+      </Record472>
+      <Record473>
+        <point>POINT(13521851.76 3661958.68)</point>
+        <osm_id>2049780805</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D0085EB517877CA6941713D0A5743F04B41</way>
+      </Record473>
+      <Record474>
+        <point>POINT(13521891.49 3662155.53)</point>
+        <osm_id>2049780806</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D007B14AE6F7CCA69413D0AD7C3A5F04B41</way>
+      </Record474>
+      <Record475>
+        <point>POINT(13521917.72 3662140.74)</point>
+        <osm_id>2049780807</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00713D0AB77FCA6941EC51B85E9EF04B41</way>
+      </Record475>
+      <Record476>
+        <point>POINT(13521894.45 3661845.7)</point>
+        <osm_id>2049780809</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00666666CE7CCA69419A9999D90AF04B41</way>
+      </Record476>
+      <Record477>
+        <point>POINT(13521878.97 3661852.01)</point>
+        <osm_id>2049780810</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00713D0ADF7ACA694114AE47010EF04B41</way>
+      </Record477>
+      <Record478>
+        <point>POINT(13522476.24 3661556.29)</point>
+        <osm_id>2049780811</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D007B14AE87C5CA694152B81E257AEF4B41</way>
+      </Record478>
+      <Record479>
+        <point>POINT(13522304.48 3661620)</point>
+        <osm_id>2049780812</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00F6285C0FB0CA6941000000009AEF4B41</way>
+      </Record479>
+      <Record480>
+        <point>POINT(13522112.94 3661941.92)</point>
+        <osm_id>2049780814</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00E17A141E98CA69415C8FC2F53AF04B41</way>
+      </Record480>
+      <Record481>
+        <point>POINT(13521887.03 3661863.08)</point>
+        <osm_id>2049780815</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D008FC2F5E07BCA6941A4703D8A13F04B41</way>
+      </Record481>
+      <Record482>
+        <point>POINT(13522032.6 3661911.72)</point>
+        <osm_id>2049780816</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00333333138ECA6941C3F528DC2BF04B41</way>
+      </Record482>
+      <Record483>
+        <point>POINT(13522069.94 3662087.41)</point>
+        <osm_id>2049780817</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00E17A14BE92CA694148E17AB483F04B41</way>
+      </Record483>
+      <Record484>
+        <point>POINT(13521973.75 3662007)</point>
+        <osm_id>2049780818</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00000000B886CA6941000000805BF04B41</way>
+      </Record484>
+      <Record485>
+        <point>POINT(13522136.6 3661442.75)</point>
+        <osm_id>2049780820</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00333333139BCA69410000006041EF4B41</way>
+      </Record485>
+      <Record486>
+        <point>POINT(13522041.02 3661814.81)</point>
+        <osm_id>2049780821</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D000AD7A3208FCA69417B14AE67FBEF4B41</way>
+      </Record486>
+      <Record487>
+        <point>POINT(13522460.42 3661560.86)</point>
+        <osm_id>2049780825</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00D7A3708DC3CA6941E17A146E7CEF4B41</way>
+      </Record487>
+      <Record488>
+        <point>POINT(13522369.93 3661476.75)</point>
+        <osm_id>2049780826</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D005C8FC23DB8CA69410000006052EF4B41</way>
+      </Record488>
+      <Record489>
+        <point>POINT(13522250.43 3661752.77)</point>
+        <osm_id>2049780827</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D005C8FC24DA9CA6941295C8F62DCEF4B41</way>
+      </Record489>
+      <Record490>
+        <point>POINT(13522467.15 3661536.26)</point>
+        <osm_id>2049780828</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00CDCCCC64C4CA694114AE472170EF4B41</way>
+      </Record490>
+      <Record491>
+        <point>POINT(13522017.81 3662188.7)</point>
+        <osm_id>2049780829</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D001F85EB398CCA69419A999959B6F04B41</way>
+      </Record491>
+      <Record492>
+        <point>POINT(13522147.99 3661841.04)</point>
+        <osm_id>2049780830</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D007B14AE7F9CCA694152B81E8508F04B41</way>
+      </Record492>
+      <Record493>
+        <point>POINT(13521842.81 3661980.96)</point>
+        <osm_id>2049780831</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D001F85EB5976CA6941AE47E17A4EF04B41</way>
+      </Record493>
+      <Record494>
+        <point>POINT(13522016.49 3661914.9)</point>
+        <osm_id>2049780832</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D007B14AE0F8CCA6941333333732DF04B41</way>
+      </Record494>
+      <Record495>
+        <point>POINT(13522249.14 3661840.23)</point>
+        <osm_id>2049780833</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D0048E17A24A9CA6941D7A3701D08F04B41</way>
+      </Record495>
+      <Record496>
+        <point>POINT(13522155.17 3661854.48)</point>
+        <osm_id>2049780834</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00D7A370659DCA6941D7A3703D0FF04B41</way>
+      </Record496>
+      <Record497>
+        <point>POINT(13522356.68 3661486.12)</point>
+        <osm_id>2049780835</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D005C8FC295B6CA6941F6285C0F57EF4B41</way>
+      </Record497>
+      <Record498>
+        <point>POINT(13522052.73 3661829.33)</point>
+        <osm_id>2049780837</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00F6285C9790CA6941A4703DAA02F04B41</way>
+      </Record498>
+      <Record499>
+        <point>POINT(13521900.32 3661859.09)</point>
+        <osm_id>2049780838</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00A4703D8A7DCA6941B81E858B11F04B41</way>
+      </Record499>
+      <Record500>
+        <point>POINT(13522259.4 3661767.16)</point>
+        <osm_id>2049780839</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00CDCCCC6CAACA694148E17A94E3EF4B41</way>
+      </Record500>
+      <Record501>
+        <point>POINT(13522126.51 3661934.88)</point>
+        <osm_id>2049780843</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D0085EB51D099CA69410AD7A37037F04B41</way>
+      </Record501>
+      <Record502>
+        <point>POINT(13522235.18 3661825.72)</point>
+        <osm_id>2049780844</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D005C8FC265A7CA6941C3F528DC00F04B41</way>
+      </Record502>
+      <Record503>
+        <point>POINT(13521952.19 3662015.9)</point>
+        <osm_id>2049780845</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00E17A140684CA6941333333F35FF04B41</way>
+      </Record503>
+      <Record504>
+        <point>POINT(13522042.55 3662196.59)</point>
+        <osm_id>2049780847</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D009A9999518FCA6941B81E854BBAF04B41</way>
+      </Record504>
+      <Record505>
+        <point>POINT(13522117.7 3661956.63)</point>
+        <osm_id>2049780848</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00666666B698CA69410AD7A35042F04B41</way>
+      </Record505>
+      <Record506>
+        <point>POINT(13522450.52 3661636.69)</point>
+        <osm_id>2049780851</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D000AD7A350C2CA694185EB5158A2EF4B41</way>
+      </Record506>
+      <Record507>
+        <point>POINT(13521856.1 3662243.83)</point>
+        <osm_id>2049780854</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D003333330378CA6941A4703DEAD1F04B41</way>
+      </Record507>
+      <Record508>
+        <point>POINT(13522435.39 3661645.71)</point>
+        <osm_id>2049780855</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D0048E17A6CC0CA6941AE47E1DAA6EF4B41</way>
+      </Record508>
+      <Record509>
+        <point>POINT(13521922.59 3661773.66)</point>
+        <osm_id>2049780856</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00AE47E15280CA694148E17AD4E6EF4B41</way>
+      </Record509>
+      <Record510>
+        <point>POINT(13522149.62 3661432.96)</point>
+        <osm_id>2049780857</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D003D0AD7B39CCA6941AE47E17A3CEF4B41</way>
+      </Record510>
+      <Record511>
+        <point>POINT(13521929.66 3662166.44)</point>
+        <osm_id>2049780858</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D0052B81E3581CA694185EB5138ABF04B41</way>
+      </Record511>
+      <Record512>
+        <point>POINT(13522024.03 3661897.82)</point>
+        <osm_id>2049780860</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D008FC2F5008DCA69418FC2F5E824F04B41</way>
+      </Record512>
+      <Record513>
+        <point>POINT(13521929.91 3661754.21)</point>
+        <osm_id>2049780861</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D0052B81E3D81CA6941AE47E11ADDEF4B41</way>
+      </Record513>
+      <Record514>
+        <point>POINT(13522127.03 3661427.15)</point>
+        <osm_id>2049780862</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D008FC2F5E099CA69413333339339EF4B41</way>
+      </Record514>
+      <Record515>
+        <point>POINT(13521916.79 3661758.81)</point>
+        <osm_id>2049780864</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D0014AE47997FCA69417B14AE67DFEF4B41</way>
+      </Record515>
+      <Record516>
+        <point>POINT(13522427.99 3661623.92)</point>
+        <osm_id>2049780865</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D007B14AE7FBFCA69415C8FC2F59BEF4B41</way>
+      </Record516>
+      <Record517>
+        <point>POINT(13522142.57 3661415.45)</point>
+        <osm_id>2049780866</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00A4703DD29BCA69419A9999B933EF4B41</way>
+      </Record517>
+      <Record518>
+        <point>POINT(13522444.64 3661613.82)</point>
+        <osm_id>2049780867</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D0048E17A94C1CA69418FC2F5E896EF4B41</way>
+      </Record518>
+      <Record519>
+        <point>POINT(13521854.08 3661973.35)</point>
+        <osm_id>2049780868</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00295C8FC277CA6941CDCCCCAC4AF04B41</way>
+      </Record519>
+      <Record520>
+        <point>POINT(13522059.68 3661806.92)</point>
+        <osm_id>2049780869</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D005C8FC27591CA69415C8FC275F7EF4B41</way>
+      </Record520>
+      <Record521>
+        <point>POINT(13521208.13 3662141.41)</point>
+        <osm_id>2049780870</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00C3F5280427CA694148E17AB49EF04B41</way>
+      </Record521>
+      <Record522>
+        <point>POINT(13521938.85 3661769.83)</point>
+        <osm_id>2049780871</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D003333335B82CA6941A4703DEAE4EF4B41</way>
+      </Record522>
+      <Record523>
+        <point>POINT(13521832.65 3662158.98)</point>
+        <osm_id>2049780872</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D00CDCCCC1475CA6941D7A3707DA7F04B41</way>
+      </Record523>
+      <Record524>
+        <point>POINT(13522006.74 3661901.11)</point>
+        <osm_id>2049780874</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D007B14AED78ACA6941E17A148E26F04B41</way>
+      </Record524>
+      <Record525>
+        <point>POINT(13522069.14 3661822.55)</point>
+        <osm_id>2049780875</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D0048E17AA492CA694166666646FFEF4B41</way>
+      </Record525>
+      <Record526>
+        <point>POINT(13521902.62 3662177.34)</point>
+        <osm_id>2049780876</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D003D0AD7D37DCA6941B81E85ABB0F04B41</way>
+      </Record526>
+      <Record527>
+        <point>POINT(13521961.3 3662035.63)</point>
+        <osm_id>2049780879</osm_id>
+        <highway>crossing</highway>
+        <way>010100002031BF0D009A99992985CA69410AD7A3D069F04B41</way>
+      </Record527>
+      <Record528>
+        <point>POINT(13523931.66 3662912.57)</point>
+        <osm_id>2110725610</osm_id>
+        <name>Oriental Bund Hotel</name>
+        <tourism>hotel</tourism>
+        <way>010100002031BF0D0052B81E757BCB69418FC2F54820F24B41</way>
+      </Record528>
+      <Record529>
+        <point>POINT(13521309.06 3660751.1)</point>
+        <osm_id>2151697014</osm_id>
+        <amenity>hospital</amenity>
+        <name>Ruijin Hospital Nr.2</name>
+        <way>010100002031BF0D001F85EBA133CA6941CDCCCC8CE7ED4B41</way>
+      </Record529>
+      <Record530>
+        <point>POINT(13524212.57 3662026.32)</point>
+        <osm_id>2231840305</osm_id>
+        <building>yes</building>
+        <way>010100002031BF0D00A4703D929ECB69418FC2F52865F04B41</way>
+      </Record530>
+      <Record531>
+        <point>POINT(13523795.6 3663039.15)</point>
+        <osm_id>2345419577</osm_id>
+        <amenity>post_office</amenity>
+        <name>China Post</name>
+        <way>010100002031BF0D00333333736ACB6941333333935FF24B41</way>
+      </Record531>
+      <Record532>
+        <point>POINT(13523809.89 3663231.48)</point>
+        <osm_id>2367497382</osm_id>
+        <amenity>restaurant</amenity>
+        <name>Next Heaven</name>
+        <tags>"cuisine"=&gt;"chinese"</tags>
+        <way>010100002031BF0D0048E17A3C6CCB6941D7A370BDBFF24B41</way>
+      </Record532>
+      <Record533>
+        <point>POINT(13522504.82 3663612.19)</point>
+        <osm_id>2367498375</osm_id>
+        <amenity>pub</amenity>
+        <way>010100002031BF0D00A4703D1AC9CA694185EB51187EF34B41</way>
+      </Record533>
+      <Record534>
+        <point>POINT(13524817.88 3660580.05)</point>
+        <osm_id>2401741205</osm_id>
+        <name>Hotel Rayfont South Bund</name>
+        <tourism>hotel</tourism>
+        <way>010100002031BF0D00C3F5283CEACB69416666660692ED4B41</way>
+      </Record534>
+      <Record535>
+        <point>POINT(13523865.91 3662467.74)</point>
+        <osm_id>2485006011</osm_id>
+        <housenumber>85</housenumber>
+        <amenity>restaurant</amenity>
+        <name>Nanxiang Mantou Dian</name>
+        <tags>"cuisine"=&gt;"chinese", "name:en"=&gt;"Nanxiang Steamed Bun Restaurant", "wikipedia"=&gt;"en:Nanxiang Steamed Bun Restaurant", "addr:street"=&gt;"Yu Yuan Road"</tags>
+        <way>010100002031BF0D0052B81E3D73CB6941EC51B8DE41F14B41</way>
+      </Record535>
+      <Record536>
+        <point>POINT(13521639.26 3662024.63)</point>
+        <osm_id>2558924354</osm_id>
+        <leisure>park</leisure>
+        <name>y</name>
+        <way>010100002031BF0D0085EB51E85CCA69410AD7A35064F04B41</way>
+      </Record536>
+    </Item>
+  </Record0>
+  <formatOutput>1</formatOutput>
+</Records>
